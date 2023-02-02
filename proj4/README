@@ -1,0 +1,292 @@
+A)
+/**********************************************************
+* Project 4: GERP
+* CS 15
+* Name: Max Samuels & Nana Adjekum
+* Date: 4-Dec
+* README
+*
+*********************************************************/
+/*
+
+B)
+Program Purpose:
+---------------
+
+    Design and implement a program that indexes and searches files for strings. 
+    The user provides the file directory and output file, and then is prompted
+    to provide a string to search for in said file directory. We implement this 
+    program ultilizing numerous Data Structures but the main tool for indexing 
+    and creating a searchable algorithm is by using the Hash function in 
+    conjunction with a 2d vector. We decided to implement this because we 
+    identified that it would be both fast for indexing and searching as the 
+    vector class provides numerous private member functions and fast indexing. 
+    Furthermore, hash functions allow for O(1) access time and also proper 
+    indexing wherein duplicates do not happen as often.
+
+C)
+Acknowledgments:
+---------------
+
+    office hours (Ellis, Phila, Niall)
+    c++ reference, math stack exchange, piazza, leetcode, geeksforgeeks
+
+
+D)
+Files:
+-----
+
+    -HashTable.cpp
+        The HashTable.cpp file acts as a catch-all for our indexing and search 
+        algoritm. Within the file we define the functions in the HashTable.h 
+        file and initialise the private member variables such as the 
+        main_hash_table's size which ensured that the program works efficiently.
+	-main.cpp
+        The main.cpp file is used to read in the command line arguments and pass
+        the file name and output file to the HashTable.cpp class
+    -README
+        Explains everything in human terms
+    -HashTable.h
+        Declaration of the HashTable class, declares all public functions, 
+        private functions, private member variables.
+    -stringProcessing.h
+        The declaration for the stringProcessing class, declares all pubilc and
+        private member variable and functions.
+    -stringProcessing.cpp
+        The implementation for the stringProcessing class, defines the private 
+        and public functions. The implementation also defines the private member
+         variables.
+    -FSTreeTraversal.cpp
+        The implementation for the FSTreeTraversal class, defines the private 
+        and public functions. Recursively searches through the tree and prints
+        out the class. In the second week of our gerp implementation, we 
+        utilised the traverse function in this class to implement our string 
+        concatenation.
+	-FSTree.h
+        The declaration for the FSTree class, declares all public function. 
+        private functions, and private member variables. In the first and second
+        week of this program implementation we utilised this class for proper 
+        indexing of directories.
+    -DirNode.h
+        The declaration for the DirNode class, declares all public and private 
+        functions and member variables. We also utilised this class in the both
+        the first and second weeks of implementation to allow for proper
+        indexing of directories.
+    -unit_tests.h
+        The unit_testing framework for this program. We mostly utilised this in
+        the first week of implementation because after the first week the this
+        we were building became too complex and dynamic to access outside of
+        the class and making functions and other private member variables
+        public would be too much. So we instead used main and the 
+        executable to test.
+        
+    -mout.txt
+        testing file
+    -tout.txt
+        testing file
+    -xout.txt
+        testing file
+    -x.txt
+        testing file
+    -y.txt
+        testing file
+    -z.txt
+        testing file
+    -a.txt
+        testing file
+    -b.txt
+        testing file
+    -c.txt
+        testing file
+	-all_conll_english.txt
+        testing file
+
+E)
+Compile/run:
+-----------
+     - Compile using
+            make
+     - run executable with either
+            ./gerp [directory_name] [output_file]
+
+
+F)
+Architectural Overview:
+-----------
+    For the implementation of our algorithm we need to access files for two
+    things: indexing the user given directory and searching the user given
+    directory.
+    We did this in a sequence of steps which we have listed with explanation
+    below.
+    -Indexing the directory
+        1. Command Line
+                We needed to access the directory to index given the user's
+                input. So, when the user calls the program with the command
+                line they are required to pass in the directory name. In
+                addition to this, they needed to pass in an output file, 
+                so they would have access to their search results.
+    
+        2. Build Tree
+                In building the tree, once we were provided a directory name
+                we could then use an ifstream type to then read in the
+                files and subdirectories associated with the given 
+                directory name. We then utilised the DirNode.h file to create
+                nodes associated with each directory and initialised the node
+                to hold the files within the directory. This DirNode.h file
+                was extremely beneficial during tree creation as it allowed
+                for us to have access to the private member functions which
+                helped with data allocation and access.
+                
+        3. Recursively search through tree and Read in a file in the tree and
+           Store entire line and path to that line in a vector
+                In searching through the tree, we implemented a recursive
+                function. For the second week we utilised the 
+                FSTreeTraversal class we implemented in the second week.
+                Though in the first week all we did was print the node when
+                we had reached a leaf--or in this case a file--we repurposed
+                the code to then send the file to a read_file function that
+                then read in the file path and then added it to our
+                output_string vector. Our output_string vector was tasked
+                with keeping track of each of the lines in a file and their
+                associated path.
+    
+        4. Read in each word from each line and call add_to_hash function
+                In then indexing every word into a greater dictionary of sorts
+                we created a struct that held the original word, a set which
+                has the index to the output_string vector which has the lines
+                associated with the word, and an index that is set to the
+                index of the main array where the word has been hashed to.
+                We also check if the main_table in the 2d vector needs to be
+                rehashed by checking if num_in_hash / size of table 
+                > (LOAD_FACTOR). If it is we then have a double for 
+                loop to access every element in the 2d vector. We declare a 
+                temporary data table with size * 2 + 10 and call the 
+                hash_function with the non to_lower word, and push every element
+                in the original vector to the temporary vector with this method.
+                We then set the original table equal to the temporary table.
+    
+        5. Parse word, word to lowercase, and additional add_to_hash function 
+        things
+            If num_in_hash > size of table, use a double for loop to access
+            every element in the 2d vector. We declare a temporary data 
+            table with size * 2 + 10 and call the hash_function with the
+            non to_lower word, and push every element in the original
+            vector to the temporary vector with this method. We
+            then set the original table equal to the temporary table.
+    
+            After rehashing we pass the parsed and lowercase word to 
+            the hash function and only the parsed word. This was both
+            insensitive and sensitive searches will have the same hash
+            value but the word stored at that index will be the original word.
+            That is the end of the indexing portion of our program.
+
+    -Searching the directory
+    To begin the search portion we first call our command loop. The command loop
+    first prints out Query? and then reads in a command from the command line. 
+    The command is run through the command loop and the following commands are
+    run respectively.
+        @q or @quit - the command loop is quit and the exit message is printed.
+        @i or @ insensitive - the insensitive search is run on the next word
+                              entered into the command line. That word is 
+                              parsed and lowercased. 
+                              
+        @f - the current output file is closed, the filename in the command
+             line is opened, and the output is not sent to that file
+
+        anystring - If no commands are entered the case_sensitive search is run.
+                    This function allows for a search for the word which
+                    takes into account that the word in the directory is
+                    fully equivalent in case (i.e. upper-case and lower-case).
+
+    
+G)
+Data Structures:
+---------------
+
+    We used vectors to implement our 2D arrays. We did this because it
+    would be easier to iterate through the data structure and accessing
+    data would be of constant time O(n) and space would also O(n). We also
+    used a tree to help with indexing the directory to then place all the
+    information in the the 2D database.
+
+
+H)
+Testing:
+-------
+
+    PhaseOne:
+        For testing for the FSTReeTraversal we employed the treeTraversal
+        executable. We created intricate directories where in edge-cases 
+        could be tested.
+        For example: one directory had files under the main directory,
+                     and the main directory had subdirectories and other files
+                     under it. In testing for this case, we found that our
+                     original program would stop after printing a file in
+                     the main directory, even though there would be other
+                     subdirectories.
+        
+        For testing for the stringProcessing portion of the project, we 
+        utilised the unit_testing framework to create functions to test for
+        when there were non-alpha-numeric characters in the different points
+        of the string.
+        For example: We tested if the non-alpha-numeric char would be removed
+                     from the front, the back, and both. As well as, if there
+                     was non-alpha-numeric in the middle, it would keep it
+                     there as described in the spec.
+
+        PhaseTwo:
+
+        We implemented multiple different strategies to test the full gerp 
+        program. The first method was placing strategic cerr statements to
+        print out and check the specific values. For example, we were having
+        troubles with the zoological insensitive search so we printed out
+        when a new word was zoologocial the word being added and the key index 
+        it was going to. Through this method we were able to identify that
+        the Zoological words were rehashing to different indexes after 
+        expanding. We were able to then notice the problem was that we using the
+        current word to pass to the hash function which meant that we were 
+        passing both case sensitive and case insensitive words to the 
+        hash function which would give us different keys. Instead we had to pass
+        the word to the to_lower function as we did in the normal add to hash 
+        function so the hash values would be consistent.
+        
+        examples of cerr statments:
+        // if ((to_add.new_word == "zoological") or (to_add.new_word == 
+            "Zoological")) {
+        //     cerr << "the word: " << to_add.new_word << "the key: " 
+               << to_add.index_key << endl;
+        // }
+
+        // cerr << "to_lower: " << to_lower(main_table.at(hash).at(i).new_word) 
+            << endl;
+
+        // if ((to_add.new_word == "Joke") or (to_add.new_word == "joke")) {
+        //     cerr << "this new word: " << to_add.new_word << endl;
+        //     cerr << "what is indexed: " << 
+                main_table.at(to_add.index_key).at(main_table.at
+                (to_add.index_key).size() -1).new_word << endl;
+        //     cerr << "size: " << main_table.at(to_add.index_key).size()
+                 << endl;
+        // }
+
+        We also used a ton of diff testing. The files we used to diff test were
+        our own Foo directory which we made in the proj4 folder. We build this
+        so we could directly manipulate what was in each file and test specific
+        cases directly. The other files we used was the all_conll_english.txt,
+        tindyData.txt, smallGutenberg.txt, and mediumGutenberg.txt. Our process
+        for using these testing files was to run a set of commands and searches
+        on the testing file with our gerp program, run the same set of commands
+        and searches on the same testing file but the the_gerp reference, and 
+        then sort and diff the output files from both. Through this we were able
+        to identify many different edge cases and errors.
+
+Hours:
+-------
+    According to my computers screen time:
+    On the first portion of this project we spent 6 hours on this project.
+
+    Second portion we spent 16 hours
+
+*/
+
+
