@@ -1,0 +1,117 @@
+README
+
+HW4: arith
+Date: 10/24/23
+
+PROGRAMMERS: 
+        Ayah Harper and Nana Adjekum
+
+ARCHITECHTURE:
+main function files:
+        40image.c:
+                The main function in charge of taking
+                in client prompts. Will then call compress40
+                if said prompts are valid with the way we
+                have implemented the program.
+
+                The function also stores if the client
+                wants to call the decompression or
+                compression steps and calls compress40
+                accordingly. 
+        compress40.c:
+                The implementation for the steps for decompression
+                and compression. Calls each step according to user 
+                input.
+
+compression files:
+        readandconvert.h:
+                    The interface for the readandconvert implementation.
+        readandconvert.c:
+                The implementation of the first 3 steps of compression.
+                In this file/step of compression we are reading
+                in the pixmap. converting the values
+                of the pixels from unsigned to floats, and converting
+                those values to component values colourspaces.
+
+                In this step we utilise the UArray2b interface/implementation
+                to store the converted values and use the mapping 
+                function with our created apply functions to populate
+                the arrays and allocate space in the correct spots.40image
+        transform.h:
+                    The interface for the transform implementation.
+        transform.c:
+                The implementation for the next 2 steps of compression.
+                In this file/step of compression we take in the 2d blocked
+                array we created in the first step and compress those values
+                into a regular 2d array. We convert the component video
+                values into the codewords needed for the bitpacking step.
+                We utilise the UArray2b, UArray2, and a regular array to
+                accomplish this step. We store the values of the codewords
+                a,b,c,d,pr,pb into a UArray2 and pass it to the next step.
+        writecodewords.h:
+                    The interface for the writecodewords implementation.
+        writecodewords.c:
+                The implementation for the last steps of compression.
+                In this file/step of compression we take in the 
+                codewords array  and pack each of those values into
+                a 32-bit word.
+                We utilise our bitpack implementation in this step
+                as well as UArray2. We use bitpack to process and
+                pack the words and UArray2 to store the words for
+                each compressed pixel.
+decompression files:
+        readcodewords.h:
+                   The interface for the readcodewords implementation.
+        readcodewords.c:
+                The implementation for the first step of decompression.
+                In this file/step we take in the compressed ppm and
+                grab the 32-bit codewords and store them into a UArray2.
+
+                We utilise our bitpack implementation and the UArray2
+                implementation in this step. We get each codeword field
+                a,b,c,d,pb,pr with the bitpack implementation and store
+                the values in our codewords array.
+        detransform.h:
+                The interface for the detransform implementation.
+        detransform.c:
+                The implementation for the next 2 steps of 
+                decompression. In this file/step we take in
+                the UArray we created in the previous step/file
+                and apply conversions so we are able to get
+                back a UArray2b of component video floats.
+
+                We utilise our UArray2 and UArray2b implementation
+                to map and populate our blocked array of these values.
+        convertandwrite.h:
+                The interface for the convertandwrite implementation.
+        convertandwrite.c:
+                The implementation for the last step of decompression.
+                In this file/step of decompression we take in the
+                blocked arrray of component video floats and convert
+                those to get the unsigned rgb values. We then write
+                these pixel values to a new ppm and print it to
+                standard output.
+
+                We utilise our UArray2b and the provided PNM interface
+                to map, populate the values in the right fields, and
+                to create the ppm to then print it to standard output.
+bitpacking:
+        bitpack.c: 
+                    This file defines the implementation of the bitpack.h 
+                interface, which provides functions for width-testing,
+                field-extraction and field-update on 64-bit integers.
+other:
+        structs.c:
+                This file contains the declarations for all of the structs
+                used commonly by compression and decompression files
+
+HELP RECEVIED:
+        AMAZING TA'S: Bill, Sam, Sarah who helped us with bitpacking, 
+                        Asli, other TA's too
+        Documentation: Geeks for Geeks
+
+HOURS ANALYZING: 
+        20 HOURS
+
+HOURS CODING: 
+        40 HOURS
