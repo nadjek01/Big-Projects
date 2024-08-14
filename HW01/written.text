@@ -1,0 +1,66 @@
+Homework 2 Written Response:
+    Written #1:
+        1. start program
+        
+               #include <iostream>
+               using namespace std;
+               int main ()
+               {
+               
+        2. create variable called a for first float point number
+        
+               float a;
+               
+        3. print out statement prompting user to input said float point number
+        
+               cout << "Enter a floating point number: "<< endl;
+               
+        4. user inputs said float
+        
+               cin >> float a;
+               
+        5. have float a give the next floating point number, in this case b
+        
+               float a = b;
+               
+        6. repeat numbers 3, 4, and five for the next 7 floating point numbers 
+           (assign each number the following letter in the alphabet)
+               
+               cout << "Enter a floating point number: "<< endl;
+               cin >> float a;
+               float a = c;
+               
+        7. compute the sum of the 8 floating point numbers
+               
+               int sum == a + b + c + d + e + f + g + h
+               
+        8. print the sum for the user
+        
+               cout << "The sum is: " << sum << endl;
+               
+        9. End program
+        
+               return 0;
+               
+    Written #2:
+           When creating the add8 program I had issue with declaring variables
+           as, I wrote in Written #1 my idea to get around not using multiples
+           variables was to have one variable and have that equal each input.
+           But that idea was flawed as, the variable was never declared and it
+           caused for my code to have numerous compilier errors. I realized 
+           this flaw in my idea and decided to declare three variables 
+           (storage, userinput, and sum), with storage and sum actively 
+           involved in the program and have one initialized to be zero 
+           (storage). Then as the user input their numbers, each time the 
+           number was added to the storage (int storage = storage + userinput), 
+           which eventually ended in the sum. 
+   Written #3:
+           A good amount of my time was spent on this assignment. 
+           I think I started actually writing lines and testing on
+           Friday and finished up everything today. So maybe like 9 hours 
+           in total (but also the entire time I would rarely
+           look at the clock). In this span of time I was also reading 
+           the textbook so that is also factored into this metric.
+           *I also came back and double-checked everything was standard 
+           (formatting-wise) so add 2 hours to the 9.
+           
