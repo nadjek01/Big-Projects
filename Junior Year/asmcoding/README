@@ -1,0 +1,80 @@
+/******************************************************************************
+*
+* asmcoding
+* CS 40
+* README
+* Matthew Carey    (mcarey04)
+* Nana Adjekum     (nadjek01)
+*
+******************************************************************************/
+
+
+Acknowledgements for help:
+
+        We went to office hours many times and received help from the
+        following TAs: Randy, Bill, Tim
+
+        We used lecture slides and readings
+
+Implementation:
+
+        As far as we are aware, our programs work as intended in the spec for 
+        this homework. Our program consistently passes randomly generated 
+        inputs up to one million operations and also our smaller test cases.
+
+Departure From Recommended Calling Convention:
+
+        We followed the recommended calling convention for the most part, with
+        some new additions and slight modifications. additions were that r3 was
+        used as the pointer to the value stack, and within printd, r4 was the
+        offset in the value stack that the printing loop was on. 
+        
+        Our largest departure from the calling convention is r1. Within smaller
+        functions called within modules such as addition and multiplication, 
+        such as checking for the correct number of values on the stack, we use
+        r1 as the return adress to come back to where we were in the function. 
+        However, within the greater main function, we used r1 as a boolean to 
+        tell whether or not the previous input was a number, so we would know
+        if we were dealing with a multiple digit number. We made sure to push 
+        and pop r1 to the call stack accordingly whenever we needed to use it 
+        as a function return address. In this way, r1 is used completely as 
+        the return address of each procedure within main, which return a 
+        boolean of whether or not they were a number or not
+
+Implementation of the Print Module:
+
+        To print the stack, we loop through the stack on r3 using r4 as an
+        offset, and at each word check for 0, 0x80000000, or negative values 
+        and handle those accordingly, otherwise recursively print the (n-1)
+        most significant digits, then the least. 
+
+Implementation of the Print Module:
+
+        The value stack is represented by a stack with 10,000 values of space, 
+        which is accessed by r3.
+
+Different Sections:
+
+        stk:
+                This section contains the preallocated call stack. 
+        data:
+                This section contains our data structure, the allocated value
+                stack used for the RPN calculator.
+
+        rodata:
+                This section contains the actual space for our jump table.
+
+        init:
+                This section contains set up code that declares what registers 
+                are temporary, declares r0 as the zero register, and sets r0 to
+                0, as well as initializes our jump table. 
+
+        text:
+                This section contains all of the function/procedure definitions
+                including main
+
+Time Spent:
+        
+        We spent around 10 hours analysing the problems for this assignment,
+        about 20 hours went in to implementing the program after our analysis, 
+        and about 10 hours went in to debugging

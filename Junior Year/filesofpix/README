@@ -1,0 +1,121 @@
+/**************************************************************
+ *
+ * README
+ *
+ *Assignment: Filesofpix (HW1)
+ *Authors:  Nana Adjekum (nadjek01) and Harsh Sinha (hsinha02)
+ *Date:     18-Sept
+ *
+ * Purpose:
+ *      The point of this file is to explain our reasoning behind
+ *      certain implementations created to solve the corruption.
+ *      
+ *      Program Purpose:
+ *      In this homework we were tasked with building out a program
+ *      which takes in files of corrupted plain pgm images which 
+ *      had infusion sequences of non-numeric ASCII chars. We 
+ *      were required
+ *      to build out a Readaline function which read the lines from
+ *      the corrupted file and a Restoration function which takes in
+ *      these lines, removes the infusion sequence while also keeping
+ *      track of which infusion sequence corresponded to the correct
+ *      picture value. We then needed to convert the values to raw pgm
+ *      picture values (decimal representation for brightness) and then
+ *      print the values, max val, and dimensions of the photo to
+ *      standard output.
+ *      
+ *      Acknowledgements:
+ *      We recieved help from numerous TAs in the process of our
+ *      programming. We would like to thank Daanvi and Zane for
+ *      their advice on our design. We also used the Hanson
+ *      implementation documents, ChatGPT to understand certain
+ *      C idioms, and the valgrind helper document.
+ *
+ *      Time Spent: 6 hours on design and discussing the optimal solution
+ *      Time Spent: 30+ hours on implementation due to various 
+ *      valgrind issues
+ *
+ *      
+ *      Functionality: Our code successfully converts the corrupted
+ *      pgms to a raw pgm based on the assignement spec. Based on our
+ *      testing, we get the correct raw pgm output for every file 
+ *      other than turing-corrupt.pgm. We were unable to resolve 
+ *      this due to limited time. We believe the issue arises 
+ *      when a digit in our imageRaster (raw output) exceeds 255      
+ *      which is the maxVal. 
+ *
+ *      Files:
+ *          -Restoration.c
+ *              This is where we built out a majority of our picture
+ *              restoration. As a main function, this is where the
+ *              program reads in the file to be uncorrupted and sends
+ *              it to readaline. The function also calls a number of
+ *              functions that build out the data structures to hold
+ *              the lines, find the infusion sequence, and store the
+ *              values for the file header (e.g. file size).
+ *              
+ *              Data Structures:
+ *                  Table
+ *                      We decided to use the table ADT from hanson
+ *                      to find the infusion sequence, as it would
+ *                      be able to raise a flag if there was an index
+ *                      with a key that has more than one number sequence
+ *                      which would lead to finding the infusion sequence.
+ *                      In the table as alluded to we stored two key-value
+ *                      pairs an atomised string (atom) corresponding to
+ *                      the non-numeric infusion and an array of the value
+ *                      of pixels represented as ints.
+ *                      Besides the Table having functions which would help
+ *                      us find the infusion quickly, it also provided our
+ *                      program with O(1) access time. Also the linking
+ *                      function allowed for the entire number seq
+ *                      corresponding to the correct infusion to be stored
+ *                      in one location. 
+ *                  Arrays
+ *                      We used arrays in our implementation to represent the
+ *                      in fusion string and value digits. After reading
+ *                      the line we parse our lines into 2 different arrays, 
+ *                      one to store our infusion seq and one to store the 
+ *                      digits in that line. Afterwards we convert our infusion
+ *                      seq into an Atom and insert the infusion into hashtable 
+ *                      if the key does not already exist and if it does we add
+ *                      it to our 2D imageRaster with the our 1d digit array. 
+ *        -Restoration.h
+ *            Headers files for our restoration source file
+ *              char *realloc_string(char *linedubp, int bytes_alloc);
+ *              void printImageRaster(int **imageRaster, int currentHeight, 
+ *                  int rasterWidth, int *firstLine);
+ *              int** extendImageRaster(int** imageRaster, int *digits,
+ *                                       int currentIndex);
+ *              int splitDigitsAndNonDigits(const char *line, int *digits, 
+ *                   char *nonDigits, int line_length);
+ *              void free_digits(const void *key, void **value, void *cl);
+ *              int* deepcopy(const int* src, size_t len);
+ *          -Readaline.c
+ *          -Readaline.h
+ *      MAKEFILE: uses restoration.h, readaline.h 
+ *      To Run ./restoration filename
+ *      Testing:
+ *             We ran our testing framework through our main function.
+ *             At each point of our readaline implementation we used test.pgm
+ *             file which was a small file of infusion sequences. In using this
+ *             file we were able to easily discover spot where our code was
+ *             incorrectly reading in a line through various print statements
+ *             and assert cases. We also used test.pgm in our splitdigits 
+ *              function which seperated infusion sequences and values. We 
+ *             found that starting with a smaller file and moving up to the
+ *             larger corrupted files provided helped us find bugs before
+ *             they got too big. In addition to this, we were able to
+ *             read the output as it was in human-readable formatting.
+ *             Other testing framework we used the PGM extension
+ *             on VSCode to see if the image is correct.
+ *             We tested our edge cases: a NULL file case,
+ *             lines with the \n character, whitespace,
+ *             and lines over 1000 chars using the test.pgm and empty.pgm
+ *             
+ *
+ *      
+ *
+ **************************************************************/
+
+//

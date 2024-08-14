@@ -1,0 +1,97 @@
+/* 
+ * HW 2: iii
+ * CS 40
+ * Names: Nana Adjekum (nadjek01) and Harsh Sinha (hsinha02)
+ * Date: 28-Sept
+ * File Name: README
+ * Program Purpose: 
+ *     In this HW we implemented a 2D array and 2D bitmap utilising the
+ *    functions from the Hanson UArray and Hanson Bit interfaces
+ *    respectively. Using the implementation we created we then
+ *    wrote 2 programs Sudoku and Unblackedges.
+
+ * Files:
+ *     UArray.c:
+ *         This file is the implementation of the 2D array we
+ *         implemented from the Hanson UArray interface. We
+ *         implement functions to create the 2d
+ *         array, return the height, width, and size, 
+ *         return the element at an index, iterate through the array
+ *         in row-major and col-major order while mapping
+ *         to them in said function, freeing the array,
+ *         and putting elements in the array. We decided
+ *         to implement the 2D array as an unboxed 2D array
+ *         where we have an array corresponding to the width
+ *         and then have another with the height of the array.
+ *         We believed this to be the best implementation
+ *         for what we wanted to use this 2D array. The
+ *         height array acts as a container array and
+ *         points to the width array.
+ *     UArray.h:
+ *         This file defines the functions we implement in
+ *         the UArray.c.
+ *     Bit2.c:
+ *         This file is the implementation of the 2D bit
+ *         array which uses the Hanson Bit interface. For
+ *         this implementation we followed a similar structure
+ *         as what we accomplished in the UArray.c--where
+ *         the 2D array comes from a container array of size
+ *         height and points to x numbers of width arrays of
+ *         size width. The file implements functions that
+ *         return the width, height, and size of the array
+ *         in addition to creating the new 2D array, freeing
+ *         the array and iterating and mapping through with
+ *         both row and col major order.
+ *     Bit2.h:
+ *         This file holds the definitions for the functions
+ *         we implement in the .c file.
+ *     Sudoku:
+ *         In Sudoku we used the UArray2 implementation to take in
+ *         a file with a plain PGM and put it in a 2D UArray and
+ *         then check to see if the given PGM represented a solved
+ *         sudoku puzzle. We believe that the file we have
+ *         created has been properly created to do just this.
+ *         It is able to also raised exceptions from creating
+ *         the PGM (i.e. if the PGM is invalid), if the
+ *         file is corrupted and if the file is empty.
+ * 
+ * 
+ *     Unblackedges:
+ *         In Unblackededges we used the Bit2 implementation to
+ *         take in a file, create a PBM and put it in a bitmap
+ *         representation. From this we run through it to check 
+ *         the edges to see if any of the bits register as black 
+ *         (1) and change said bit values to white (0). We did
+ *         this through the use of a stack and set. The stack
+ *         was used to keep track of the black values and
+ *         register their locations in a second bitmap and
+ *         the set was used to keep track of if the address
+ *         had already been visited.
+ * Testing:
+ *     2D Array Testing:
+ *         To test that our implementation for the 2D array
+ *         was working properly we utilised the given starter
+ *         code useuarray2.c and diff tested with it. We also
+ *         tweaked the arrays that we passed in i.e. made them
+ *         empty and what-not but we mainly stressed testing
+ *         on our sudoku.c as we would be able to pass in
+ *         garbage values from stdout and also from a file.
+ * 
+ *         We also used valgrind to catch leaks and other
+ *         errors. Our sudoku uses the PNDMR interface so
+ *         there are exceptions that get raised in there
+ *         so we tried our best to pinpoint those spots
+ *         and free allocated space when that exception was caught
+ *         and quit out code in the spec defined manner.
+ *     2D Bit Testing:
+ *         With the bit testing it was a similar case
+ *         we tweaked the given code and ran that. And
+ *         ran it with the given code and diff tested it.
+ * 
+ * Acknowlegdements:
+ *     Hanson UArray and Bit interface
+ * 
+ * Hours:
+ *    We spent 6 hours on the design and
+ *    28 hours on coding and debugging
+*/

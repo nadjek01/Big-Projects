@@ -1,0 +1,616 @@
+################################ calc40.ums ###################################
+#               Written by Matthew Carey and Nana Adjekum
+#                                asmcoding
+#       
+#       The purpose of this file is to implement an RPN calculator to be run
+#       on a UM. 
+#
+#
+#
+###############################################################################
+#                           Calling Conventions
+#      r0 is always 0
+#      in main, r1 holds a boolean telling if the last input was a number
+#      otherwise, r1 holds the return address upon entry to a procedure
+#      r1 also holds the result of a procedure, if there is one
+#      r2 points to the end of the call stack
+#      r3 points to the end of the value stack
+#      r4 is a stable general purpose register
+#      r5 is an volatile general purpose register
+#      r6 and r7 are volatile temporary registers
+#
+###############################################################################
+
+.section init
+    .zero r0
+    .temps r6, r7
+    r0 := 0
+
+.section data
+    .space 10000    #initialize 10000 values in our value stack
+    end_val_stack:
+
+.section init
+
+    push r4 on stack r2
+    push r3 on stack r2
+    r3 := jump_table    # r3 is counter to initialize the jumptable
+    
+
+    init_table_loop:
+
+        m[r0][r3] := invalid_input
+        r3 := r3 + 1
+        if(r3 <=s jump_table + 255) goto init_table_loop using r5
+
+        m[r0][jump_table + '0'] := number
+        m[r0][jump_table + '1'] := number
+        m[r0][jump_table + '2'] := number
+        m[r0][jump_table + '3'] := number
+        m[r0][jump_table + '4'] := number
+        m[r0][jump_table + '5'] := number
+        m[r0][jump_table + '6'] := number
+        m[r0][jump_table + '7'] := number
+        m[r0][jump_table + '8'] := number
+        m[r0][jump_table + '9'] := number
+
+        m[r0][jump_table + ' '] := space
+        m[r0][jump_table + '\n'] := new_line
+        m[r0][jump_table + '+'] := add
+        m[r0][jump_table + '-'] := minus
+        m[r0][jump_table + '*'] := mult
+        m[r0][jump_table + '/'] := div
+        m[r0][jump_table + '|'] := or 
+        m[r0][jump_table + '&'] := and
+        m[r0][jump_table + 'c'] := change
+        m[r0][jump_table + '~'] := complement
+        m[r0][jump_table + 's'] := swap
+        m[r0][jump_table + 'd'] := duplicate
+        m[r0][jump_table + 'p'] := popval
+        m[r0][jump_table + 'z'] := zero
+
+        pop r3 off stack r2
+        pop r4 off stack r2
+        r3 := end_val_stack     # r3  points to the end of the value stack
+
+.section rodata
+    jump_table:
+    .space 256                  # enough space for every possible input
+
+
+.section text
+
+# preserves r1, r4 and r3 and goes into waiting
+    main:
+        push r1 on stack r2     # Address main returns to in callmain
+        push r4 on stack r2     # Callee (main) saves non-volatile reg
+        push r3 on stack r2
+        r1 := 0                  # last input was not a number
+
+# recieves input into r4 and goes to waiting_w_char
+        waiting:
+                r4 := input()         // grab the input from the user
+                goto waiting_w_char   // check what the input is and
+                                      // send it to the correct function
+
+# Checks if previous input was a number so we are dealing with multiple digits
+        entering:
+                // this and following check to see if 
+                // following input is a number 
+                // sees if the user means a multiple digit number              
+                if(r4 <s '0') goto callCommand using r5               
+                if(r4 >s '9') goto callCommand using r5                  
+
+                r4 := r4 - '0'          // subtract by 0 so that we can use the
+                                        // actual number in calculations
+                                        // not the ascii value     
+
+                pop r5 off stack r3     // grabs the previous value to
+                r5 := r5 * 10           // develop the next digit space
+                r5 := r5 + r4
+                push r5 on stack r3
+
+                goto waiting            // goes back to waiting 
+                                        // for more user input
+
+# Checks for special cases, otherwise goes to callCommand
+        waiting_w_char:
+                // checks for end of file
+                if (r4 == -1) goto finish_program using r5
+
+                // checks if the input is a digit--set in number function
+                if (r1 == 1) goto entering using r5                
+                
+                // goes to address in jump_table
+                goto callCommand
+
+# Calls the command associated with the given input
+        callCommand:            #assumes input is in r4
+                // sets r5 to the function (i.e. function call)
+                r5 := jump_table + r4                                 
+                r5 := m[r0][r5]
+                goto r5 linking r1
+
+                // goes back to waiting for user input
+                goto waiting                                            
+
+.section text
+# outputs a error message telling the user what input they provided was invalid
+        invalid_input:                                                     
+                output "Unknown character '"
+                output r4
+                output "'\n"
+                goto waiting
+        
+.section text
+        // number function: places a number in the value stack
+        // changes to the value stack: the number and if the
+        // number was read into the program
+        number:
+                push r4 on stack r2
+
+                // use the literal value not the ascii
+                r4 := r4 - '0'                                          
+                push r4 on stack r3
+
+                // notifies waiting w/ char function that the input is a digit
+                r1 := 1                                                 
+                pop r4 off stack r2
+                goto waiting
+
+.section text
+        // space function: goes back to waiting
+        // changes to the value stack: n/a
+        space: 
+                goto waiting                                           
+
+.section text
+        // new_line function: prints out the entire stack
+        // changes to the value stack: n/a
+        new_line:
+                // checks if there is something in the value stack
+                if(r3 == end_val_stack) goto waiting using r5
+                
+                
+                push r1 on stack r2             // important pushes
+                push r4 on stack r2
+                push r3 on stack r2
+
+                r4 := 0                         // loop counter
+
+                print_loop:
+                        goto print linking r1     // call the print function
+                        r4 := r4 + 1              // increment the loop counter
+
+                        // r6 is set to the length of value stack
+                        r6 := end_val_stack - r3   
+                        
+                        // makes sure we are still in the bounds of the stack
+                        if(r4 <s r6) goto print_loop using r5
+
+                pop r3 off stack r2   // important pushes
+                pop r4 off stack r2
+                pop r1 off stack r2
+
+                // set the numeral input register (r1) to 
+                // zero bc no user input of a number
+                
+                goto waiting                    // go back to waiting
+.section text
+        // add function: grabs two values from the value stack and adds them
+        // changes to stack: the sum of the two values are 
+        // pushed onto the stack
+        add:    
+                // makes sure that there are at least 
+                // two numbers (to add) on the stack
+                goto check_two_vals linking r1
+
+                // important pushes (saving vals)
+                push r1 on stack r2
+                push r4 on stack r2
+
+                // storing the two values into r4, r5
+                pop r4 off stack r3
+                pop r5 off stack r3
+                
+                
+                r4 := r4 + r5          // summation
+                
+                push r4 on stack r3   // push the summation
+                
+                pop r4 off stack r2
+                pop r1 off stack r2
+                goto waiting         // go back to waiting
+.section text
+        // minus function: grabs two values from the value 
+        // stack and subtracts them
+        // changes to stack: the difference of the two 
+        // values is pushed onto the stack
+        minus:
+                // makes sure that there are at least 2
+                // values on the value stack to subtract
+                goto check_two_vals linking r1
+
+
+                // important pushes (save the values)
+                push r1 on stack r2
+                push r4 on stack r2
+
+
+                // grabs the values to subtract from the top of the stack
+                pop r4 off stack r3
+                pop r5 off stack r3      // stores them into r4, r5
+                
+                
+                r4 := r5 - r4            // subtracts the two values from
+                                        // the stack, stores them into r4
+                
+                push r4 on stack r3     // push the difference onto 
+                                        // the value stack
+                
+                pop r4 off stack r2
+                pop r1 off stack r2
+                
+                // sets r1 to 0, signifies that there 
+                // was no number user input in this function
+                
+                goto waiting           // returns to waiting for more input
+.section text
+        // multiplication function: grabs two values from the value
+        // stack and multiples them
+        // changes to stack:  the product of the two values
+        // from the stack is pushed onto the stack
+        mult:
+                // makes sure there is at least two
+                // values on the stack to multiply
+                goto check_two_vals linking r1
+
+
+                // important pushes (saves those values)
+                push r1 on stack r2
+                push r4 on stack r2
+
+
+                // grabs the values to multiply from the top of the stack
+                pop r4 off stack r3
+                pop r5 off stack r3     // stores them in r4, r5
+                
+                
+                r4 := r5 * r4          // stores the product of the
+                                       // two values in r4
+                
+                push r4 on stack r3   // pushes the product to the 
+                                      // top of the stack
+                
+
+                // pops to get the vals we pushed at 
+                // the beginning are put back on the stack
+                pop r4 off stack r2                                     
+                pop r1 off stack r2
+                
+                // sets r1 to 0, indicates that there was no
+                // number user-input in this function
+                                                                 
+                goto waiting          // returns to waiting for more input
+.section text
+        // division function: grabs two values from the 
+        // value stack and divides them
+        // changes to stack:  the quotient of the two values
+        // from the stack is pushed onto the stack          
+        div:
+                // makes sure there is at least 
+                // two values on the stack to divide 
+                goto check_two_vals linking r1
+
+                push r1 on stack r2    // important pushes (saves those values)
+                push r4 on stack r2     
+
+
+                // grabs the values to multiply from the top of the stack
+                // stores them in r4, r5
+                pop r4 off stack r3
+                pop r5 off stack r3
+
+
+                // cases for dividing
+                
+                // if the denominator is zero calls 
+                // the div_zero function (instead of segfaulting) 
+                if(r4 == 0) goto div_by_zero using r1                   
+                
+                // if the denominator is negative goes
+                // to the flip_denom function
+                if(r4 <s 0) goto flip_denom using r1
+
+                // if the numerator is negative goes
+                // the flip_numerator function
+                if(r5 <s 0) goto flip_numer using r1
+
+                
+                r4 := r5 / r4     // base case, both numbers are positive
+
+                // skips over the following functions
+                // and finishes the function
+                goto finish_div   
+
+
+                // functions below: sets the denominator to positive,
+                //                  we do this because we are doing 
+                //                  calculations on two types of number 
+                //                  representations (2-signed complement
+                //                  and unsigned) and want to convert
+                //                  to make sure that the 
+                //                  return value makes sense
+                flip_denom:
+                        r4 := -r4             // sets denom to positive
+                        
+                        // if the numerator is also negative 
+                        // calls the both negative function        
+                        if(r5 <s 0) goto both_neg using r1      
+                        
+                        // else divides the two positive
+                        // numbers, stores result in r4      
+                        r4 := r5 / r4
+                                                   
+                        r4 := -r4     // sets the quotient to negative
+                        goto finish_div         // goes to finish div
+                
+                flip_numer:
+                        r5 := -r5       // sets numerator to positive
+                        
+
+                        // because this is called in the main 
+                        // divide function, r4 is positive 
+                        // because we test before
+                        r4 := r5 / r4
+
+
+                        r4 := -r4       // sets the quotient to negative
+                        goto finish_div         // goes to finish div
+
+                both_neg:
+                        r5 := -r5       // sets the numerator to zero
+                        
+                        // because this is called in flip_denom, r4 is positive 
+                        r4 := r5 / r4
+                        goto finish_div
+
+                finish_div:
+                        
+                        push r4 on stack r3   // push the quotient on the stack
+                        
+                        pop r4 off stack r2   // pops we did in the beginning
+                        pop r1 off stack r2
+                        
+                        goto waiting         // go to wait for more input
+
+                div_by_zero:
+                        output "Division by zero\n" // prints the error message
+                        
+                        // push the vals we pulled from 
+                        // stack back onto the stack
+                        push r5 on stack r3
+                        push r4 on stack r3
+
+                        pop r4 off stack r2     // reset pop
+                        pop r1 off stack r2    
+                        goto waiting          // goes back to waiting for input
+                        
+.section text
+        // or function: does bitwise or on two values from the top
+        // of the value stack
+        // changes to value stack: bitwised or value pushed onto the stack
+        or:
+                // check make sure there are at least two vals on the stack
+                goto check_two_vals linking r1
+                
+                
+                // push values onto the call stack
+                push r1 on stack r2
+                push r4 on stack r2
+                
+                
+                // pop the two values from the top of the value stack
+                pop r4 off stack r3
+                pop r5 off stack r3
+                
+                
+                r4 := r5 | r4           // does computation, stores it in r4
+                
+                push r4 on stack r3    // push r4 onto the value stack
+                
+                pop r4 off stack r2
+                pop r1 off stack r2
+                goto waiting           // goes back to waiting for input
+
+.section text
+        // complement function: does the bitwise complement on a value
+        // from the top of the value stack
+        // change to value stack: pushes the complement onto the stack
+        complement:
+                # check for enough values
+                goto check_one_val linking r1   
+                
+                # preserve non volatile registers
+                push r1 on stack r2
+                push r4 on stack r2
+                
+                # grab top value and push its bitwise complement
+                pop r4 off stack r3
+                r4 := ~r4
+                push r4 on stack r3
+
+                # restore non volatile registers 
+                pop r4 off stack r2
+                pop r1 off stack r2
+                
+                # go back to waiting
+                goto waiting
+.section text
+# replaces the top value on the stack with its negative value. Outputs an error
+# message if there is not enough values on the stack
+        change:
+                # check for enough values
+                goto check_one_val linking r1 
+
+                # preserve non volatile registers
+                push r1 on stack r2
+                push r4 on stack r2
+
+                #grab top value and push its negative
+                pop r4 off stack r3
+                r4 := -r4
+                push r4 on stack r3
+
+                # restore non volatile registers and go back to waiting
+                pop r4 off stack r2
+                pop r1 off stack r2
+                goto waiting
+
+.section text
+# grabs the top 2 values on the stack and switches their order. Outputs an 
+# error message if there is not enough values in the stacks
+        swap:
+                #check for enough values
+                goto check_two_vals linking r1
+
+                # preserve non volatile values
+                push r1 on stack r2             
+                push r4 on stack r2
+                push r3 on stack r2
+
+                # grab top values and push them back reversed
+                pop r4 off stack r3
+                pop r5 off stack r3
+        
+                push r4 on stack r3
+                push r5 on stack r3
+                
+                # restore non volatile registers
+                pop r3 off stack r2
+                pop r4 off stack r2
+                pop r1 off stack r2
+
+                #go back to recieve input
+                goto waiting
+.section text
+# grabs the top values on the stack and pushes their sum. Outputs an error 
+# message if there is not enough values on the stack
+        and:
+                #check for enough values
+                goto check_two_vals linking r1
+
+                # preserve non volatile values
+                push r1 on stack r2             
+                push r4 on stack r2
+
+                # grab top values
+                pop r4 off stack r3
+                pop r5 off stack r3
+                
+                # and the two values and push the result
+                r4 := r5 & r4
+                push r4 on stack r3
+                
+                # restore non volatile registers
+                pop r4 off stack r2
+                pop r1 off stack r2
+
+                # go back to recieve more input
+                goto waiting
+
+.section text
+# duplicates the number on top of the stack, then goes back to waiting for
+# input. Outputs an error message if there is not enough values on the stack
+        duplicate:
+                #check for enough values
+                goto check_one_val linking r1 
+
+                # preserve non volatile values
+                push r1 on stack r2             
+                push r4 on stack r2
+
+                # grab top value
+                pop r4 off stack r3
+
+                r5 := r4
+                
+                # push original value and its duplicate
+                push r4 on stack r3
+                push r5 on stack r3
+                
+                # restore non volatile values
+                pop r4 off stack r2
+                pop r1 off stack r2
+
+                # go back to waiting for more input
+                goto waiting
+.section text    
+# removes the number on top of the stack and discards it, then goes back to 
+# waiting for input. Outputs an error message if not enough values on the stack
+        popval:
+                #check for enough values
+                goto check_one_val linking r1 
+
+                # preserve non volatile values
+                push r1 on stack r2             
+                push r4 on stack r2
+
+                # grab top value
+                pop r4 off stack r3
+                
+                # restore non volatile values
+                pop r4 off stack r2
+                pop r1 off stack r2
+
+                # go back to waiting for more input
+                goto waiting
+
+.section text
+# Clears the whole stack by setting r3 to point back at the end of it, then 
+# goes back to waiting for input
+        zero:
+                r3 := end_val_stack
+                goto waiting
+
+.section text
+# restores r3, r4 and r1, then goes to where main was called in callmain.ums
+        finish_program:
+
+                # restore nonvolatile registers
+                pop r3 off stack r2
+                pop r4 off stack r2
+                pop r1 off stack r2
+                
+                # go back where we came from
+                goto r1
+
+.section text
+# performs a check for if there is at least 2 elements on the stack, and goes
+# to either the appropriate error message or back to waiting
+        check_two_vals:
+                push r4 on stack r2
+                if (r3 == end_val_stack) goto need_2_elements using r5
+                if (r3 + 1 == end_val_stack) goto need_2_elements using r4, r5
+
+                pop r4 off stack r2
+                goto r1
+        
+.section text
+# outputs appropriate error message and returns to waiting for input
+        need_2_elements:
+                output "Stack underflow---expected at least 2 elements\n"
+                pop r4 off stack r2
+                goto waiting
+
+.section text
+# performs a check for if there is at least 1 element on the stack
+        check_one_val:
+                if (r3 == end_val_stack) goto need_1_elements using r5
+                goto r1
+        
+.section text
+# outputs appropriate error message and returns to waiting for input
+        need_1_elements:
+                output "Stack underflow---expected at least 1 element\n"
+                goto waiting

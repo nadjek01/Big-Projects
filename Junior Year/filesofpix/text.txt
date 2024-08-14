@@ -1,0 +1,22 @@
+MAIN
+1. Given a file name, open the file
+
+LOOP until eof{
+READALINE -> size_t readaline(FILE fd, **datapp)
+2. Use readaline to get contents of a line + size of that line in the file
+- Create a char *line_being_read and save the pointer as char* start = line_being_read;
+- append the contents of a line into line_being_read and expand the size with realloc
+- loop: use getc to read char by char (make sure not eof) - read up to '\n', increment size_of_line for each char
+- set *datapp to start pointer of line_being_read or to NULL if eof or size_of_line == 0
+    2a. char *line = *datapp --> line
+    2b. size_t size_of_line = readaline(FILE fd, **datapp) --> size_of_line 
+
+PROCESS LINE into filters
+3. Given line, and size_of_line, read through each char in line and filter to infusion_seq vs rawdigits
+
+}
+
+RESTORATION
+Restore original sequence
+
+

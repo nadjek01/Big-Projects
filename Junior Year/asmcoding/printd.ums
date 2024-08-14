@@ -1,0 +1,98 @@
+################################ printd.ums ###################################
+#               Written by Matthew Carey and Nana Adjekum
+#                                asmcoding
+#
+#       The purpose of this file is to output a single UM word that exists on
+#       the stack pointed to by r3 at an offset of the value in r4
+#
+#
+#
+###############################################################################
+#                           Calling Conventions
+#      r0 is always 0
+#      otherwise, r1 holds the return address upon entry to a procedure
+#      r1 also holds the result of a procedure, if there is one
+#      r2 points to the end of the call stack 
+#      r3 points to the end of the value stack
+#      r4 is the offset at which the current value to print is at
+#      r5 is an volatile general purpose register
+#      r6 and r7 are volatile temporary registers
+#
+###############################################################################
+
+.section init
+        .zero r0
+        .temps r6, r7
+        r0 := 0
+
+.section text
+
+#prints the value on stack r3 at offset of r4
+        print:
+                push r1 on stack r2             # save return address
+                push r4 on stack r2             # save nonvolatile register
+                push r3 on stack r2             # save nonvolatile register
+                output ">>> "
+
+# grab the value that we are going to be printing
+        init_print:
+                r3 := r3 + r4
+                r3 := m[r0][r3]
+                r1 := finish_print
+
+# check for special cases or base case, otherwise fall into the recursive case
+        loop:   
+                if (r3 == 0) goto zero_case
+                r5 := 0x80000000
+                if (r3 == r5) goto min_val_case using r5
+                if(r3 <s r0) goto negative_case using r5
+                if (r3 <=s 9) goto base_case using r4, r5   # Handle base case
+
+# grabs the n-1 most significant digits and recurses to them, then outputs the
+# least significant and goes to where it was called from
+        recursive_case:
+
+                r5 := r3 / 10               # OK to step on volatile register
+
+                push r3 on stack r2         #save original number on call stack
+                push r1 on stack r2
+
+                r3 := r5                    # now (n - 1) is a parameter
+                goto loop linking r1        # make the recursive call
+                pop r1 off stack r2
+                pop r3 off stack r2         #retrieving original number     
+                r3 := r3 mod 10             # grabs the LEAST SIGNIFICANT DIGIT
+                output r3 + '0'            # prints the LEAST SIGNIFICANT DIGIT
+                goto r1                     #goes to finish_print or where 
+                                            #recursive case was called from
+
+# in the case of 0, output 0 and finish printing
+        zero_case:
+                output "0"
+                goto finish_print
+
+# output a negative sign for negative numbers then print as if it were positive
+        negative_case:
+                output "-"
+                r3 := -r3
+                goto loop
+
+# just print out the most negative value and go to wherever it was called from
+        min_val_case:
+                output "-2147483648"
+                goto r1
+        
+# print out the single digit currently on r3 as a char, then go back where it 
+# was called from
+        base_case:
+                r3 := r3 + '0'
+                output r3                     # base case that prints MSD
+                goto r1
+
+# output a new line, restore registers 3, 4, then go back to calc40.ums 
+        finish_print:
+                output "\n"
+                pop r3 off stack r2             # restore saved register
+                pop r4 off stack r2             # restore saved register
+                pop r5 off stack r2             # put return address in r5
+                goto r5

@@ -1,0 +1,32 @@
+################################## urt0.ums ###################################
+#               Written by Matthew Carey and Nana Adjekum
+#                                asmcoding
+#       
+#       The purpose of this file is to initialize the call stack and special 
+#       registers for the RPN calculator to be run on a UM
+#
+#
+#
+###############################################################################
+#                           Calling Conventions
+#      r0 is always 0
+#      in main, r1 holds a boolean telling if the last input was a number
+#      otherwise, r1 holds the return address upon entry to a procedure
+#      r1 also holds the result of a procedure, if there is one
+#      r2 points to the end of the call stack 
+#      r3 points to the end of the value stack
+#      r4 is a stable general purpose register
+#      r5 is an volatile general purpose register
+#      r6 and r7 are volatile temporary registers
+#
+###############################################################################
+.section init
+        .temps r6, r7
+        .zero r0
+        r0 := 0
+
+.section stk
+        .space 100000
+        endstack:
+.section init
+        r2 := endstack
