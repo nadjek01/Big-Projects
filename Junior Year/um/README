@@ -1,0 +1,164 @@
+README
+
+HW4: arith
+Date: 10/24/23
+
+PROGRAMMERS: 
+        Ayah Harper and Nana Adjekum
+
+HELP RECEVIED:
+        AMAZING TA'S: Bill, Sam, Andrew, Julia who helped us with a nasty bug
+                      and everyone else who helped us further understand
+                      this project
+        Documentation: Geeks for Geeks
+
+HOURS ANALYZING: 
+        20 HOURS
+
+HOURS CODING: 
+        40 HOURS
+with others
+
+Architecture:
+-mainum.c
+  main program, where the program begins by create the FILE pointer which
+  starts reading in the instructions file.
+-processfile.h
+  the header file that defines the function(s) for processfile.c
+-processfile.c
+ the implementation for our file processing function(s) in charge
+ taking in the FILE pointer and putting it in our memory segments.
+ We use the bitpacking framework to create a work instruction and
+ put the word instructions in a sequence. We return a sequence (segmentIDs)
+ which contains pointers to this sequence (the zero segment) and
+ other segments we create in the duration of this program.
+-execute.h
+ the header file that defines the function(s) for execute.c
+-execute.c
+ the implementation for our execution function(s) in charge
+ of taking in the sequence of pointers (segmentIDs) and going
+ through each instruction in the first sequence in the segmentIDs
+ (zero segment). We use the bitpacking framework to pull each instruction
+ and call a the function suite based on the opcode (high four bits of the
+ instructions).
+-instructions.h
+ the header file that defines the function(s) for instructions.c
+-instructions.c
+ the implementation for our instructions function(s) in charge
+ of taking in a struct of our programs memory segments and
+ the bitpacked word with the opcode and other important bits.
+ We use the bitpacking framework to pull out the opcode
+ and other important information from the word.
+
+50 million instructions:
+
+Would take about 4.7 seconds. We found this out through
+running our midmark.um program and counting up how many times
+our execution while loop ran. We then timed it and got that
+8 seconds. We then created a ratio function with set
+85 million instructions / 8 seconds = 
+50 million instructions / x seconds. And solved for x seconds.
+
+UM unit tests:
+-add.um
+  1. loads 2 values into 2 registers
+  2. adds the two values
+  3. outputs the final value
+  4. outputs a new line
+  5. appends a halt instruction
+  
+-halt.um
+ 1. appends a halt instruction
+ (basic test to check that halt is called)
+
+-halt-verbose.um
+ 1. appends a halt instruction
+ 2. loads and prints out "Bad!" with a new line
+ (this is a more in-depth test that ensures
+ that if there are any other tests after the halt
+ command nothing else runs)
+
+print-digit.um
+ 1. loads a value into a register
+ 2. outputs said value
+ 3. loads a new line into a register
+ 4. outputs the new line
+ (simplest test on loadval and output)
+ 
+div-char.um
+ 1. loads one char and one integer into two
+    different registers
+ 2. divide the two values
+ 3. print out the new values with a new line
+ (we wanted to make sure that division would
+ work similar on both chars and integers as
+ chars are j ints under the hood)
+
+cmov.um
+ 1. loads two values (one of them being 0) into
+    two registers
+ 2. performs a conditional move which prints out
+    something based on if a value is 0 or 1
+    (0 true, 1 false);
+
+- div-OOB.um: 
+        test the division function for when the
+        values would be greater than 255. Will
+        produce an error if the UM implementation
+        is correct.
+
+- mult-char.um: test mult on chars
+        multiplies two chars and outputs
+        product. test to see how chars were
+        interpreted and outputted.
+
+- mult-OOB.um: test mult instruction
+        loads two values then multiplies them,
+        leading to a result that is greater
+        than 255. attempts to output result, 
+        which should not work. 
+
+- NAND-nonzero.um: tests NAND 
+        tests NAND instruction on two nonzero 
+        numbers 
+        
+- NAND-zero.um: tests NAND
+        tests NAND instruction on two 0's
+        
+- map-SL.um: tests map, segmented store + segmented load
+        maps a segment, stors a value in that segment, 
+        then loads the value from the segment into a
+        register and outputs it. tests to ensure that
+        map, sstore and ssload work together in sequence
+        
+- map-unmap.um: tests map and unmap
+        maps a segment, then immediately unmaps it
+        tests to ensure that map and unmap work 
+        in tandem
+        
+- input.um: tests input and output
+        prompts for input, then outputs the 
+        input provided by the user
+
+- map-simple.um: tests map
+        maps a segment, then attempts to output
+        the segment ID (if it is between 0 and 255)
+        
+- load-prog.um: tests map and load program
+        maps a new segment, then calls load program
+        to load this segment into the 0-segment.
+        tests to ensure that map and load program
+        work in tandem
+        
+- load-multiple.um: tests load program
+        calls load program on the 0 segment, leading
+        to a jump backwards. should result an infinite
+        loop.
+        
+- load-PS.um: test load program + segmented load
+        calls load program on the zero segment, effectively
+        performing a jump to an output instruction. after 
+        outputting the value in the specified rgister,
+        calls sload on the 0-segment. enures load program 
+        and segmented load can work in tandem
+

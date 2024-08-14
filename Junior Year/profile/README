@@ -1,0 +1,21 @@
+# README
+
+# HW 7: Profiling
+# Programmers: Ayah Harper and Nana Adjekum
+
+# Acknowledging Help Received
+TA's, Office Hours, Stack Overflow, man pages
+
+# Most Time-Consuming Routine in Final UM
+Calls to calloc, specifically in calloc'ing each new memory
+segment that is mapped. The assembly could not necessarily be
+improved, as it appears to be pretty optimized. There aren't
+really unneccessary function calls/computations, just a 
+lot of library calls that seem necessary to performing
+the calloc operation.
+
+# Hours Spent Analyzing
+6 Hours
+
+# Hours Spent Problem-Solving
+15 Hours
