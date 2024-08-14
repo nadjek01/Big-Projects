@@ -1,0 +1,71 @@
+/**********************************************************
+* Project 4: GERP
+* CS 15
+* Name: Max Samuels & Nana Adjekum
+* Date: 4-Dec
+* README
+*
+*********************************************************/
+/*
+
+Program Purpose:
+---------------
+
+    TODO: 
+          
+Compile/run:
+-----------
+     - Compile using
+            make
+     - run executable with either
+            TD
+
+
+Acknowledgments:
+---------------
+
+    office hours (ellis), 
+    c++ reference, math stack exchange, piazza, leetcode, geeksforgeeks
+
+Files:
+-----
+    
+
+Data Structures:
+---------------
+
+    
+
+
+
+Testing:
+-------
+
+    PhaseOne:
+        For testing for the FSTReeTraversal we employed the treeTraversal
+        executable. We created intricate directories where in edge-cases 
+        could be tested.
+        For example: one directory had files under the main directory,
+                     and the main directory had subdirectories and other files
+                    under it. In testing for this case, we found that our
+                    original program would stop after printing a file in
+                    the main directory, even though there would be other
+                    subdirectories.
+        
+        For testing for the stringProcessing portion of the project, we 
+        utilised the unit_testing framework to create functions to test for
+        when there were non-alpha-numeric characters in the different points
+        of the string.
+        For example: We tested if the non-alpha-numeric char would be removed
+                     from the front, the back, and both. As well as, if there
+                     was non-alpha-numeric in the middle, it would keep it
+                     there as described in the spec.
+
+Hours:
+-------
+    According to my computers screen time:
+        On the first portion of this project we spent 6 hours on this project.
+
+*/
+
+

@@ -1,0 +1,103 @@
+/**********************************************************
+* Project 2: CalcYouLater
+* CS 15
+* Name: Nana Adjekum
+* Date: 19-Oct
+* README
+*
+*********************************************************/
+
+Program Purpose:
+---------------
+
+    TODO: The purpose of this program is to provide a Reverse
+          Polish Notation ("RPN") calculator for a client. The RPN calculator
+          differs from typical calculators as the it is in "postfix" notation
+          where the operator follows the operands (1 2 +). This calculator 
+          allows for the user to input and operate on Datum objects which 
+          can be strings, integers, and booleans.
+
+Compile/run:
+-----------
+     - Compile using
+            make CalYouLater
+     - run executable with either
+            ./CalcYouLater
+            ./CalcYouLater < filename.cylc
+
+
+Acknowledgments:
+---------------
+
+    TODO: All the TAs, StackExchange, C++, the JCC
+
+Files:
+-----
+
+Datum.o: The executable for the Datum class. Allows for implementation of the
+         Datum element within the DatumStack and RPNCalc class.
+
+DatumStack.h: The declaration of the DatumStack Class. The DatumStack is 
+              essentially a list (stack) of Datum elements.
+
+DatumStack.cpp: The implementation of the DatumStack Class. The definitions
+                of member functions and other elements which allow for
+                the manipulation of the stack and creation and manipulation of 
+                Datum objects.
+
+RPNCalc.h: The declaration of the RPNCalc Class. The RPNCalc class is the class
+           in charge of processing the operations for the calculator. The 
+           RPNCalc class relies on the Datum and DatumStack class.
+
+RPNCalc.cpp: The implementation of the RPNCalc Class. The RPNCalc.cpp
+             class processes inputs from main through a run function that
+             is called in main.
+
+main.cpp: Where the client calls the RPNCalculator. Initialises an instance of
+          the RPNCalc object.
+
+got_int.cpp: A file given to us which allows us to copy code that converts
+             a string to an integer which is very important to the RPNCalc 
+             class.
+
+parser.cpp: The implementation of the parser class. The parser function reads 
+            in something from a stream and converts it to a string. This class
+            is very important for creating RStrings for the RPNCalc class.
+
+unit_tests.h: A testing file for this project. Used to test that specific 
+              functions in the DatumStack.cpp class.
+
+Makefile: File to build the program.
+
+
+Data Structures:
+---------------
+
+    This main data structure of this lab is a list, which is a linked list in 
+    the C++ Library, so I don't have to take care of writing the code to ensure
+    that things are getting placed in the right spots. I used a list for the
+    DatumStack class because I because I'm not that big of a fan of vectors,
+    and I think the list class has better functions for data access.
+
+
+Testing:
+-------
+
+    This project was a doozy. I really have enjoyed it but I really want
+    a break. For testing my DatumStack, I used a unit_test file and I checked
+    that the functions in the class was working correctly and throwing
+    exceptions at the right points. For the RPNCalc class, I used
+    a lot of cerr statements to see how my code was flowing from
+    block to block. I would comment and uncomment the code to ensure
+    that it was going into the right block at the right time. So for example
+    when I had to test my exec function of the RString { 1 2 + }, I put many 
+    cerr statements into my exec function (so before, in, and after the loop)
+    then I had some in my cmdloop function in my int conditional and binary
+    operator conditional, and then within those conditional, if a function
+    was called, I put more cerr statements. This allowed for me to see where
+    my code was going for each command fed into the program which allowed
+    for tracking bugs and debugging.
+
+
+
+

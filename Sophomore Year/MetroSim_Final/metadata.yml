@@ -1,0 +1,11 @@
+---
+:id: 140526278
+:submitters:
+- :name: Nana Adjekum
+  :email: nana.adjekum@tufts.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-10-13 04:47:15.078508000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-10-12 21:47:15.078508000 Z
+:status: processed

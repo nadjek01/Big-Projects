@@ -1,0 +1,106 @@
+README
+(A) Title: HW2 
+    Author: Nana
+(B) Purpose:
+    -Files attached act as Character Linked List for client usage.
+    -The program itself allows the user to have access to functions
+    which allow them to access and change private member elements
+    (element at a point in the list and size)
+    -The .cpp file allows the client to view the element at an index,
+    connect words, replace the data at an index, or turns the list 
+    into a string
+(C) Acknowledgements: TA Office Hours; Big ups Matt F.
+(D) Files Provided:
+    CharLinkedList.h- declares functions for the client to use to 
+    manipulate the list and initializes the private member 
+    variables of Class CharLinkedList
+    CharLinkedList.cpp- defines the functions for the client 
+    to use to manipulate the list
+    unit_test.h- implements the functions the client will be using
+    utilises tests
+    Makefile- compiler
+    README- defines what the code is doing in english
+(E) How-To Compile and Run Program:
+    To compile/run the program run unit_test
+(F) Data Structures Used:
+    The data structures I used in this program was the linked list. 
+    I used is because that is what the spec said I had to use. 
+    In this assignment, personally, there was no positive in using 
+    linkedList. It brought so much stress into my life. 
+    But in general, using linked lists are nice because 
+    you don't have to look at the entire list to find and 
+    element, everything is just pointing to another thing. 
+    Also size is automatically dynamic, allowing for adding 
+    to the list to be more easy than compared to arrayLists 
+    (because of the note before). 
+(G) How-To Test:
+    I tested this program by running unit_test and inserting 
+    cerr statements anywhere I saw fit. For example, to make 
+    sure my prev pointer was getting reassigned, I had a cerr
+    statement in the actual function and also the unit_test 
+    function. I also heavily used assert because cerr doesn't 
+    really work when you have 52 tests, theres to much to 
+    look at and one can easily overlook a mistake. 
+(H) Timer Questions:
+    1. There are three categories of operations listed (insertion,
+    removal, and access). Within each category, list the times
+    each operation took and rank the operations from 
+    fastest to slowest.
+        Fastest (time in nanoseconds)
+            call last()- 595
+            call first()- 605
+            popFromBack 100 times- 1994
+            pushAtBack 100 times- 2031
+            popFromFront 100 times - 2338
+            pushAtFront 100 times- 3310
+            insertAt middle of list 100 times- 24641009
+            removeAt middle of list 100 times- 28165856
+            call elementAt() for middle of list 100 times- 70812695
+        Slowest            
+    2. Discuss these rankings. Why were certain operations so much
+    faster or slower than others? What are the features of linked 
+    list that cause these disparities?
+    The call at last and front were the most easiest because I 
+    have pointers pointing the Nodes at this place in memory. The 
+    middle functions (when you had to do something in the middle
+    of the list) it took significantly longer because you had to 
+    iterate through the entire list until you found the specific 
+    index and then at that point had to find the correct pointer 
+    to the element in the Node.
+
+    3. Now compare these measurements with the measurements you
+    took for HW1. Which operations are faster when using array
+    lists? Which are faster using linked lists? Why?
+        In AL popFromFront took the longest because after popping
+        from the front of the list you would also have to copy over
+        eveything in the list. Where as in the linked list you 
+        just have to reassign the front pointer to the next node
+        in the list and then delete it. In general list manipulation
+        was shorter for everything but the middle ones, because you
+        have to do some reassignment in the LL but in the AL it was
+        just find the index and overwrite at that point.
+
+Questions
+(Q1)  Which functions in the interface were easier to implement for
+linked lists compared to array lists? Why?
+    No functions were easy to implement. They were easier to
+    conceptualise and logic test, but implementation was rocky. 
+    But in general, its easier to implement the insertion functions. 
+    Because the linked list functions on pointers to other Nodes, 
+    to find an element to remove or add, you just have to go until 
+    the next pointer is pointing to the node you want to manipulate.
+(Q2) Which functions in the interface were harder to implement for
+linked lists compared to array lists? Why?
+    The ones that were harder to implement was when you had to manipulate
+    at the very back (unless you had a back pointer) or in the middle of the
+    list because you had to search the entire list before you got to the
+    Node you want to manipulate.
+
+Q3: If a client had an existing program that uses CharArrayLists,
+what changes would they have to make to their code to switch to
+CharLinkedLists?
+    Anything with any sort of insertion, because you have to reallocate
+    the Nodes to make sure they are pointing to something in memory 
+    (in the case the Nodes).
+
+

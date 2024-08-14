@@ -1,0 +1,180 @@
+/**********************************************************
+* Project 1: Metro Simulator
+* CS 15
+* Name: Nana Adjekum
+* Date: 2-Oct
+* README
+*
+*********************************************************/
+
+Compile/run:
+     - Compile using
+            make MetroSim
+     - run executable with
+            ./MetroSim stationsFile passFile [commands]
+
+
+Program Purpose:
+
+     The purpose of this program is to create a 
+     program through which a client can manipulate
+     different private member variables to create an
+     simulation of a metro. The client can either
+     provide a file for the stations to be read in
+     or can manually input the stations. The client
+     can also move the train from station to station
+     and input passengers into the train at stations
+     through command line driven function calls.
+ 
+
+Acknowledgements: 
+     CS 15 Office Hours
+     Some websites (cpp reference snf geeks for geeks)
+
+
+Files: 
+
+main.cpp:
+     STUDENT TO-DO: Main file should be short and handle simple driver
+     functions such as reading in files.
+
+MetroSim.cpp:
+     STUDENT TO-DO: Implementation of MetroSim class.  Main
+     functionality of running the Metro Simulation, should be able to
+     move trains and deal with passengers going on/off the train.
+
+MetroSim.h:
+     STUDENT TO-DO: Interface of MetroSim class.
+
+stations.txt:
+     an example file containing a list of stations.
+
+small_stations.txt:
+     an example file containing a list of stations. (smaller than the other 
+     stations.txt file)
+
+a_small_cmd.txt:
+     a smaller sample list of commands that you could give to the simulator
+
+test_commands.txt:
+     sample list of commands that you could give to the simulator
+
+the_metroSim:
+     reference implementation for students to see how the Sim runs
+
+Passenger.h:
+     holds the declaration of the passenger struct and its
+     public and private functions and variables
+
+Passenger.cpp:
+     holds the definition of passenger struct functions
+     allows the client access to private date members through
+     functions
+
+PassengerQueue.h;
+     holds the declaration of the passengerQueue class and its
+     public and private functions and variables
+
+PassengerQueue.cpp:
+     holds the definition of the passengeQueue class functions
+     allows the client access to private date members through
+     functions
+
+Makefile:
+     Compilation script for the program
+
+README:
+     Text file for the MetroSim programs
+     The ins-and-outs and everything in-between
+
+unit_tests.h:
+     holds the functions that used to test the program
+     and its edge cases
+     Makes sure the program is running as it should considering
+     every possible input and output
+
+Station.cpp:
+     holds the definition of the Station struct functions
+     allows the client access to private data members through
+     functions
+
+Station.h:
+    holds the declaration of the Station struct
+    and its public and private functions and variables 
+
+output.txt:
+     output file for the feedback when 
+     MetroSim is ran
+
+poutput.txt:
+     personal version of the output file
+     to test implementation
+
+ptest.txt:
+     personal version of the test output
+     file to test implementation
+
+stdout.txt:
+     another output file
+
+toutput.txt:
+     given implementation version of the output file
+     to test given implementation
+
+ttest.txt:
+     given implementation version of the output file
+     to test given implementation
+
+
+Note:  the program should handle all cases.
+
+Data Structures:
+     In the current state of this program, the data structures used are lists.
+     I found that lists where a better implementation of the PassengerQueue
+     than vectors. This is due to my personal preference towards LinkedLists,
+     but also because I thought that the library for Lists is more extensive 
+     than that of the vector class.
+
+     Part 2 of use data structures:
+     I still used the list from the C++ library, but for the Train and Transit, I used a vector. A vector was
+     used for these instances because it was easier to access a specific place in memory with it. This was needed for the case for move metro as I needed to access a stations passenger queue at the index of the current station to enqueue and dequeue a passenger.
+
+Testing:
+
+As for testing I tested, for each function I wrote, the
+null case (when the thing tested was empty), the single
+case (when the thing tested had one item), and the 
+double/multiple case (when the thing tested had more
+than one item). For example all the PassengerQueue 
+functions had all three of these cases because it was dealing
+with a list of passenger instances. So for the enqueue function
+I added something to an empty, single, and double list and then
+printed them out. I also used the size function to assert
+that the functoin had the right amount of items in the list.
+
+Part that you found most difficult:
+A part of the program I have found difficult as I have
+been implementing the passenger and passengerqueue algorithms
+has been the syntax for implementing the list class. I 
+found that though it is easier to implement the list, 
+it's kind of hard to follow the syntax found online
+because they are referencing things that I don't have
+implemented in my program.
+I was able to get around this by going to office hours
+and asking what the best way to implement was based on
+my logic and what type of modularity I wanted to 
+implement in the future.
+
+Testing PART II:
+     The second portion of this project had a much
+     different testing framework. Because I was 
+     dealing with extremely modular cases where I 
+     would be accessing private member variables, I found 
+     it much easier to test within the MetroSim.cpp file. 
+     I was able to implement my different edge cases and utilise
+     cerr statements to ensure that my program ran as smoothly as possible. Besides this, the diff terminal function proved
+     to be useful as I was able to really assert that my program behaved       
+     exactly like the given the_MetroSim.cpp file
+
+     The diff function was very useful because it was able to find
+     small differences between my code and the given example that I would not have been able to pick out with my bare eyes.

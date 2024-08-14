@@ -1,0 +1,132 @@
+/**********************************************************
+* Project 3: ZAP!
+* CS 15
+* Name: Nana Adjekum
+* Date: 8-Nov
+* README
+*
+*********************************************************/
+/*
+
+Program Purpose:
+---------------
+
+    TODO: 
+          The purpose of this program is to provide a compress and decompress
+          program for a client. The client is able to provide a file to the 
+          program to then be compressed into a binary file. This compression
+          allows for quicker transfer of information as when a file is
+          transferred there is no need for n distinct characters to be read
+          in, only the string representation of the created Huffman tree and
+          the binary string representation of the string to be decoded. 
+          In the program the client is also able to decompress a file that has
+          been compressed. Decompression as hinted at before, is the process
+          of taking in a compressed file which has a vector containing the
+          binary string and the string version of the tree 
+          (the serialised tree) and converting the binary string to 
+          "human-language" (ex: 100101 --> "a cat").
+Compile/run:
+-----------
+     - Compile using
+            make
+     - run executable with either
+            ./zap zap [INPUT FILE NAME] [OUTPUT FILE NAME]
+            ./zap unzap [INPUT FILE NAME] [OUTPUT FILE NAME]
+
+
+Acknowledgments:
+---------------
+
+    office hours (big ups to Niall and Phila), 
+    c++ reference, math stack exchange, piazza
+
+Files:
+-----
+    main.cpp:
+        -the main for the program
+    testmain.cpp:
+        -the main i used for testing in phaseOne
+    phaseOne.cpp:
+        -the implementation for phaseOne
+        -allows for the client to have access to the HuffmanTree 
+         class and manipulate it to serialise and deserialise files
+    phaseOne.h:
+        -the interface for phaseOne
+        -declares the functions for the HuffmanTree manipulation
+    HuffmanTreeNode.h:
+        -the interface for the HuffmanTree
+        -declares the functions for the HuffmanTree implementation
+    unit_tests.h:
+        -testing for the program
+        -was not used for phaseOne //used a main
+    BinaryIO.h:
+        -//
+    Makefile: File to build the program.
+    Any file that ends in .txt and .zap:
+        -what I used to test the program
+        -if its a output file, i used it to run diff
+        -note: i wasn't able to provide my test for my bigger files, 
+         because it said the cs15 server had a size limit but know i did 
+         test with those (ecoli.coli, the shakespeare one)
+        -note: also i reused the same .txt output files so thats why
+               i don't have an output for every test, but just know
+               i tested on every text .txt file
+
+
+Data Structures:
+---------------
+
+    In this first phase of the this project I used in the map class
+    because I needed to keep track of the frequency of the chars in the string 
+    and have it so that it is linked to the char.
+
+    In the second phase of this project I used the map class for the same
+    reason as before. I also used it to maintain a library of each binary 
+    string associated with each char. In the second part of the project, I 
+    decided to have this map be a private member variable because I wanted a 
+    better performing version of scope (ie i wanted access to the map at any
+    point in my code). This is because it was needed at two points in the 
+    encode function and in different functions for encoding, and I didn't 
+    want the hassle of passing the map back and forth because if something 
+    happened when it was passed it would deviate the code (I didn't really 
+    want to deal with that edge case).
+
+    I also used the queue class to create the tree for encode. I used this 
+    because it was given in the mini_pq_example and it would allow for the
+    nodes to be created and then pushed on the queue and then popped off to 
+    be connected to an interior node.
+
+    I used a Binary Tree to aid with the traversal. With the binary tree to 
+    implement Huffman encoding, I essentially had the internal node hold a 
+    char '\0' and the sum of the frequency of its children nodes. With the 
+    binary tree traversal when a binary string was read in to be decoded, 
+    if the char at an index was '0' the current node would be set to the 
+    left child and if it was '1' the current node would be set to the 
+    right child.
+
+
+Testing:
+-------
+
+    To test the HuffmanCoder functions, I would use cerr statements and
+    call from main. I used all the given .txt files and ensured the output
+    was the same as the given example ./the_zap. I would diff test for the
+    outputs (against the given ./the_zap) and also diff test my code input
+    would get the same results when decoded. I also used unit test to create a 
+    tree for the decode exception. Because of the output from unit_test I was
+    able to reconfigure my code because of this because the way I handled 
+    the errors did not match the given code. The output diff testing also 
+    really helped with ensuring that my code was traversing through the tree, 
+    binary string, and any other inputs correctly. I really did not have that 
+    much issue with diff testing because I tested my code every stop of the way
+    (with cerr) and would handwrite the tree and traverse it on paper. 
+
+Hours:
+-------
+    According to my computers screen time:
+        On the first portion of this project I spent 8 hours on this project
+        and on the second part I spend 13 hours.
+
+*/
+
+

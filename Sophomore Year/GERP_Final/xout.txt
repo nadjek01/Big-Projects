@@ -1,0 +1,33 @@
+proj4-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10563/10563/10563.txt:367: "'Somebody's playing a joke on us,' I ses.
+proj4-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10564/10564/10564.txt:482: you to joke with me.  If you think you are going off with my money,
+proj4-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10567/10567/10567.txt:60: one night they fell out over a little joke Ginger played on Sam.
+proj4-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10567/10567/10567.txt:465: a joke agin you Ginger; you're too sharp for a old man like me.'
+proj4-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10568/10568/10568.txt:85: on, anybody would have thought I'd insulted her.  Can't see a joke, I
+proj4-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10569/10569/10569.txt:231: you're too fond of a joke, 'Arry.'
+proj4-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10782/10782/10782.txt:398: downstairs and let himself out.  He began to think that the joke was of
+proj4-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10785/10785/10785.txt:119: "I just came in to tell you a joke," said Mr. Foss, as he followed his
+proj4-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10785/10785/10785.txt:120: host into the kitchen and gazed tenderly at Miss Dowson--"best joke I
+proj4-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10785/10785/10785.txt:159: [Illustration: "I just came in to tell you a joke."]
+proj4-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/9/10790/10790/10790.txt:217: "I've seen you afore to-day," he says, nodding his 'ead.  "I like a joke
+proj4-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/9/10796/10796/10796.txt:166:   The deacon loved to joke;
+proj4-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11181/11181.txt:229: "They will 'ave their joke," he ses, turning to Mrs. Finch and trying to
+proj4-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11184/11184.txt:260: "Best joke I ever heard in my life," he said, wiping his eyes.  "Don't
+proj4-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/8/7/11877/11877.txt:288: a lit-tle joke on Miss Gray. Then they scram-bled down, and came run-ning
+proj4-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/9/7/11979/11979.txt:292:       And loved a timely joke;
+proj4-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12155/12155.txt:475: "Bill was always fond of his joke," said Mr. Cooper, with a glance at
+proj4-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12158/12158.txt:375: other could speak.  "A joke's a joke, but when you said you would come I
+proj4-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:360: Then Peter see the joke and 'e begun to laugh so 'ard that Ginger 'ad to
+proj4-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:130: time you've told that lie about me.  I can take a joke with any man; but
+proj4-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12208/12208.txt:376: "I lent 'em to young Sims, just for a joke," said the constable.  "I felt
+proj4-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12208/12208.txt:379: "It's no joke," said Mr. Gunnill, severely.  "I'll tell young Herbert
+proj4-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:407: "That was by way of a joke like," ses the conjurer to John Biggs.  "I can
+proj4-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/3/0/3/13035/13035.txt:525:     just a joke.
+proj4-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/5/0/0/15007/15007.txt:188: That's the sort of a joke that was.
+proj4-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/7/6/0/17604/17604.txt:123:     And Cuff was gone! It was no joke.
+proj4-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/8/3/4/18343/18343.txt:284:     Of them, as you very well know, was in joke.
+proj4-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/8/9/1892/1892.txt:290: meaning an aged and mouldy joke.  I turned pale at that, for I
+proj4-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/5/9/0/5904/5904.txt:219: of them, who was rather fond of a joke and was very sharp-witted, said to
+proj4-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/5/9/1/5919/5919.txt:50: "A good joke, that!" returned Don Quixote. "Books that have been printed
+proj4-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/5/9/4/5944/5944.txt:144: have given himself six or eight when he began to think the joke no
+proj4-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/7/5/4/7546/7546.txt:237: does not joke
+proj4-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/7/5/4/7546/7546.txt:603: You cannot be at perfect ease with a friend who does not joke

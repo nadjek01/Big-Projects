@@ -1,0 +1,123 @@
+/**********************************************************
+* Project 1: Metro Simulator
+* CS 15
+* Name: Nana Adjekum
+* Date: 2-Oct
+* README
+*
+*********************************************************/
+
+Compile/run:
+     - Compile using
+            make MetroSim
+     - run executable with
+            ./MetroSim stationsFile passFile [commands]
+
+
+Program Purpose:
+
+     The purpose of this program is to create a 
+     program through which a client can manipulate
+     different private member variables to create an
+     simulation of a metro. The client can either
+     provide a file for the stations to be read in
+     or can manually input the stations. The client
+     can also move the train from station to station
+     and input passengers into the train at stations
+     through command line driven function calls.
+ 
+
+Acknowledgements: 
+     CS 15 Office Hours
+     Some websites (cpp reference snf geeks for geeks)
+
+
+Files: 
+
+main.cpp:
+     STUDENT TO-DO: Main file should be short and handle simple driver
+     functions such as reading in files.
+
+MetroSim.cpp:
+     STUDENT TO-DO: Implementation of MetroSim class.  Main
+     functionality of running the Metro Simulation, should be able to
+     move trains and deal with passengers going on/off the train.
+
+MetroSim.h:
+     STUDENT TO-DO: Interface of MetroSim class.
+
+stations.txt:
+     an example file containing a list of stations.
+
+test_commands.txt:
+     sample list of commands that you could give to the simulator
+
+the_metroSim:
+     reference implementation for students to see how 
+
+Passenger.h:
+     holds the declaration of the passenger struct and its
+     public and private functions and variables
+
+Passenger.cpp:
+     holds the definition of passenger struct functions
+     allows the client access to private date members through
+     functions
+
+PassengerQueue.h;
+     holds the declaration of the passengerQueue class and its
+     public and private functions and variables
+
+PassengerQueue.cpp:
+     holds the definition of the passengeQueue class functions
+     allows the client access to private date members through
+     functions
+
+Makefile:
+     Compilation script for the program
+
+README:
+     Text file for the MetroSim programs
+     The ins-and-outs and everything in-between
+
+unit_tests.h:
+     holds the functions that used to test the program
+     and its edge cases
+     Makes sure the program is running as it should considering
+     every possible input and output
+
+
+Note:  the program should handle all cases.
+
+Data Structures:
+     In the current state of this program, the data structures used are lists.
+     I found that lists where a better implementation of the PassengerQueue
+     than vectors. This is due to my personal preference towards LinkedLists,
+     but also because I thought that the library for Lists is more extensive 
+     than that of the vecotr class.
+
+Testing:
+
+As for testing I tested, for each function I wrote, the
+null case (when the thing tested was empty), the single
+case (when the thing tested had one item), and the 
+double/multiple case (when the thing tested had more
+than one item). For example all the PassengerQueue 
+functions had all three of these cases because it was dealing
+with a list of passenger instances. So for the enqueue function
+I added something to an empty, single, and double list and then
+printed them out. I also used the size function to assert
+that the functoin had the right amount of items in the list.
+
+Part that you found most difficult:
+A part of the program I have found difficult as I have
+been implementing the passenger and passengerqueue algorithms
+has been the syntax for implementing the list class. I 
+found that though it is easier to implement the list, 
+it's kind of hard to follow the syntax found online
+because they are referencing things that I don't have
+implemented in my program.
+I was able to get around this by going to office hours
+and asking what the best way to implement was based on
+my logic and what type of modularity I wanted to 
+implement in the future.

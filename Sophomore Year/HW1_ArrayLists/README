@@ -1,0 +1,56 @@
+README
+A. (Title) HW1: ArrayLists
+   (Author) Nana Adjekum
+B. Purpose: To adequately define, declare, and implement an ArrayList of Chars
+C. Acknowledgements: CS15 Office Hours
+D. Files Attached:
+    CharArrayList.cpp
+    CharArrayList.h
+    Makefile
+    README
+    simple_exception.cpp
+    timer_main.cpp
+    unit_test.h
+E. Compilation: 
+   To compile the program one should run the "use -q comp15" command to ensure 
+   that they are accessing the halligan comp15 commands. After that one should 
+   run the "unit_test" command (which compiles and runs the code).
+F. Rough Outline:
+    In this assignment, I utilised the arraylist data structure. With ArrayLists
+    you are able to easily able to access/search through items in memory because 
+    everything is stored next to each other. To add to this, the ArrayList allows
+    for things to be removed from the list with ease (at least for elements at 
+    the beginning or the end of the list). The ArrayList also allows for things to be dynamically resized (the capacity can be increased or decreased). The ArrayList also allows for Abstraction with private data members. The major disadvantages for using ArrayLists is that one is unable to remove from the middle of the list. Also the allocation of making a new ArrayList (and copying the data) is slow and time-consuming. 
+G.  Testing:
+    I tested my code through a lot of implementation on tests. I used a lot 
+    of catching exception statements and cerr outputs. For more details on what 
+    the tests actually do, check the function contracts. Put for a majority of my implementation, I went through each member function I implemented and saw what the test_function spit out, from this I was able to individually pick out each portion of my code that code possibily have bugs. In doing this, I found that it was easier to find bugs and check edge cases (I also implemented functions for every edge case possible). I feel like this approach to testing though tedious really taught me a lot in the long-run and I am definitely more confident in my codes ability to function correctly. 
+H. Timer.cpp response
+ 1: Times
+    Fastest:
+        The call last() function executed the quickest
+            Time: 423 nanoseconds
+        Then it was the call first() function
+            Time: 480 nanoseconds
+        Then the call elementAt() for middle of list 100 times
+            Time: 541 nanoseconds
+        Then it was the pushAtBack 100 times function
+            Time: 568 nanoseconds
+        Then the popFromBack 100 times
+            Time: 617 nanoseconds
+        Then the removeAt middle of list 100 times
+            Time: 16784285 nanoseconds
+        Then the pushAtFront 100 times 
+            Time: 25809196 nanoseconds
+        Then the insertAt middle of list 100 times
+            Time: 29460782 nanoseconds
+        And finally the longest to execute was the popFromFront 100 times 
+            Time: 33559442 nanoseconds
+    2: Discussion of the disparities in time
+        Certian operations took a longer time because they had to access numerous functions to ensure that the code was executed correctly. Like for example for to add something to the middle of the list the code would have to run through the Array once to find the index to insert, insert the actual element, make space for the insertion, and then copy over the things that were after the items in the array. For something as simple as removing from back , the array only needs to set the current size to one less.
+
+        Operations that took around the same time were the ones that did not involve that many functions (ie the function called was only the member function and not other member functions within the member functions).
+
+        The features of the array list that cause differences in time is that the array list is very searchable so for the array to find something in a specific index all it has to do is follow through the array. Another thing is dynamic resizing the array doesn't need to really do much to make sure that there is enough space. 
+
+

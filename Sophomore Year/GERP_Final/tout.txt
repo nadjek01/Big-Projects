@@ -1,0 +1,2 @@
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/1/1/14116/14116.txt:399:     The postman called: "Hello! hello!--
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/1/0/18109/18109.txt:362: "He's just gotten off the ship; he hasn't had time to say hello to

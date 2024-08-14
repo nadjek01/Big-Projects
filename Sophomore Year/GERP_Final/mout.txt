@@ -1,0 +1,915 @@
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/5/0/10504/10504.txt:96: The next I remember I awoke in the morn
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/5/1/10515/10515.txt:523: And with regret you now remember they all ended with good-by.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/5/1/10515/10515.txt:542: And if she come from Outside Camp, remember all is new
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/5/1/10515/10515.txt:545: Forget the jest and love her, remember your first years.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/5/1/10515/10515.txt:960: If the Lion growls, remember this,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/5/1/10517/10517/10517.txt:714: prayers! And when they are gone, remember them at the home altar, and
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10561/10561/10561.txt:542: with you first and last, Alf, but I can't remember as I ever won one yet.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10564/10564/10564.txt:214: could have a hat, but asked her to remember when buying it that nothing
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10565/10565/10565.txt:472: it to 'im wot he couldn't remember, and wot he wouldn't repeat if 'e
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10567/10567/10567.txt:283: couldn't remember, they sheered off.  When Sam left the place 'arf-an-
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10568/10568/10568.txt:179: he will remember."
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10568/10568/10568.txt:254: if we seem to be angry, you must remember we are only pretending."
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10568/10568/10568.txt:389: Don't you remember--"
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/5/7/10570/10570/10570.txt:353: you remember the serpent I 'ad tattooed on my leg for a garter?"
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/5/7/10570/10570/10570.txt:358: "You used to admire it," said Mr. Davis, reproachfully.  "I remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/6/1/10618/10618/10618.txt:126: remark. "I cannot remember a single instance of untruth, _even in
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/6/1/10618/10618/10618.txt:313: Spirit to teach you to love him. Remember, it is this kind Saviour who
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/6/7/10679/10679.txt:811: "And remember, my son," said he, fixing his deep-set eyes upon the face
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/7/6/10767/10767/10767.txt:63: and forgotten.  They are the roses in December; you remember someone
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/7/6/10767/10767/10767.txt:84: We remember the important things.  I cannot provide you with that
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/7/6/10767/10767/10767.txt:210: but remember the atmosphere of generations you are in, and when he
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/7/6/10767/10767/10767.txt:378: not really work.  The artistic callings--you remember how Stevenson
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/7/6/10767/10767/10767.txt:441: I don't quite see in what way, but he has changed.'  You remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/7/6/10767/10767/10767.txt:514: think of Scott I remember the strange Alpine story of the youth who
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/7/6/10767/10767/10767.txt:643: could all be light-hearted on occasion.  I remember Scott by
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/7/6/10767/10767/10767.txt:649: John Silver; you remember with what adequate results.  You must
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/7/6/10767/10767/10767.txt:746: Well, we have at last come to an end.  Some of you may remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/7/6/10767/10767/10767.txt:757: name has swept to the ultimate seas.  Remember--
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10782/10782/10782.txt:163: marry you.  I remember the first time I saw you I had to stuff my
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10783/10783/10783.txt:68: Kindness never gets any thanks.  I remember a man whose pal broke 'is leg
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10783/10783/10783.txt:80: I remember Ginger Dick and Peter Russet trying to do old Sam Small a
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10786/10786/10786.txt:50: I remember one man who used to think I couldn't do wrong; everything I
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10786/10786/10786.txt:68: I remember two young fellers that was shipmates with me some years ago,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10787/10787/10787.txt:205: "I did," said Lester, "but I don't remember shutting it--perhaps I did,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10787/10787/10787.txt:500: in surprise.  "I don't remember coming here.  How did I get here?"
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10789/10789/10789.txt:132: She wouldn't remember."
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/7/9/10791/10791/10791.txt:353: remember what you said that afternoon when I put the hot spoon on your
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/7/9/10792/10792/10792.txt:336: won't you, Silas?" he ses.  "You'll remember you 'ave seen me once, I
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/7/9/10796/10796/10796.txt:378: If you have read, remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/9/7/10976/10976.txt:635: He then told Tom all that he could remember of what his grandmother had
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/9/7/10976/10976.txt:699: had finished; "and I am glad that you remember them at the right time."
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/9/7/10976/10976.txt:717: well-dressed, pleasant-looking man, whom he did not remember to have
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/9/7/10979/10979.txt:53:   And how well I remember my A, B, C, D.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/9/8/10983/10983.txt:127: friends. And let us all remember, that we can trust in Him, for He is
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/9/8/10989/10989.txt:187: You, little children who read this book, must remember that you are just
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/9/9/10994/10994.txt:323: Mary told Nancy to remember her hymn at all times, and to be early at
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/9/9/10994/10994.txt:461: "Yes, mother; and could I but remember his presence, I should not so
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/9/9/10994/10994.txt:465: affectionately; "but try to go to sleep, and remember that God is always
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/9/9/10994/10994.txt:546: lately. She has not spoken a cross word to me since I can remember; and
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/9/9/10994/10994.txt:619:   But remember that God, the all-seeing, is nigh,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/9/9/10994/10994.txt:629:   But ever remember to walk with the wise
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/0/0/11006/11006.txt:742: remember, wild geese
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/0/0/11006/11006.txt:843: remember what they feel
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/0/0/11007/11007.txt:649: him, but he did not think you would remember his sisters too, and send
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/0/0/11007/11007.txt:673: remember all your days. "He that giveth to the poor lendeth to the Lord,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/0/0/11009/11009.txt:191: In Chicago, the May Day strike was a great success. Those who remember it
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/0/0/11009/11009.txt:455: an open wound in the hearts of many of us who remember them as shining
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/0/6/11065/11065.txt:373: [Illustration: Remember the Sweeper.]
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/0/8/11083/11083.txt:683:   But Abraham said, "Remember, son,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/0/8/11083/11083.txt:778:   "I well remember father's house,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/0/9/11099/11099.txt:195: "Thank you, papa, I think I shall remember that, and I will not wish to
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/1/0/11105/11105.txt:96: can remember some worth telling again.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/1/0/11105/11105.txt:100: "No, I cannot do that. I cannot remember them all."
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/1/0/11105/11105.txt:102: "Well, tell us all you do remember."
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/1/2/11129/11129.txt:112: but _remember_, the lessons there taught, and thereby become wiser and
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/1/2/11129/11129.txt:145: incident that occurred when I was a boy. I remember it as distinctly as
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/1/2/11129/11129.txt:296: of the precept, _Remember the sabbath-day_, &c. as he had been taught to
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/1/2/11129/11129.txt:863: love to remember, this is one of the dearest to me."
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/1/4/11147/11147.txt:275:   That little girl remember you.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/1/4/11147/11147.txt:662: Dost remember how we tried to get
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/1/4/11147/11147.txt:665: Dost remember how she loved
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/1/4/11148/11148.txt:111: "Remember my wax doll," said Louisa, "which you left in the garden
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/1/4/11148/11148.txt:173: forget her, and they promised to remember her advice.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/1/4/11148/11148.txt:188: remember, aunt, that you promised to write to us when that was the
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/1/4/11148/11148.txt:629: help them then; for you would remember that heathen children, like
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/1/4/11148/11148.txt:718: listen to the words of life, she could remember many of them in her
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/1/4/11148/11148.txt:816: Reader, beware how you neglect the word of God. But remember it is not
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/1/4/11149/11149.txt:252:   Bless me, and remember me. Amen.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/1/4/11149/11149.txt:667:   Dear Lord, remember me. Amen.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11184/11184.txt:528: Come to think of it, I did seem to remember one o' their voices."
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11188/11188.txt:43: jeweller rubbing his hands over the fire tried in vain to remember what
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11188/11188.txt:280: remember the first dear good man that called me a lorst lamb.  He didn't
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/1/9/11192/11192.txt:141: I remember reading somewhere that Tennyson had an idea that Longfellow,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/1/9/11194/11194.txt:1171: With sable lashes! I remember once
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/2/3/11236/11236.txt:331:               farewell! remember me."
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/2/3/11236/11236.txt:343:                 farewell! remember me."
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/2/5/11258/11258.txt:208: possession of his mind. Many persons now alive remember him wandering
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/2/6/11266/11266.txt:109: will remember his keenly discriminating interest in British history and
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/2/6/11266/11266.txt:252: Prussian Octopus,--it is well to remember that it was from Italy the
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/3/7/11374/11374.txt:1085:     One time--ah! how well I remember, it seems like yesterday,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/3/7/11374/11374.txt:1092:     I remember very little of all she said to me,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/3/7/11374/11374.txt:1094:     I remember romping gaily around some little ricks,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/3/7/11374/11374.txt:1096:     I remember our long, long parting one autumn afternoon,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/4/2/11420/11420.txt:1042: Remember Thee, Lines, 100.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11471/11471.txt:68: I remember one time they was home, arter being away pretty near a year,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11472/11472.txt:59: wot I should ha' done in their place, but I can't remember one that ever
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11473/11473.txt:323: "Remember what I've told you, and you'll do well yet," he said, patting
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11475/11475.txt:337: He tried to remember the suggestions in the harassing days that followed;
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11476/11476.txt:49: I remember a young feller telling me about a row he 'ad with 'is wife
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11476/11476.txt:323: once, and the next thing I can remember is sitting on the ground in my
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11476/11476.txt:435: she can remember things that never 'appened, and every time I coughed she
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11478/11478.txt:289: After a mental review of all I could remember of the Weights and Measures
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11479/11479.txt:66: and the other looking through the winder at me.  I remember once going
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/4/8/11480/11480.txt:57: remember the last time you went on strike?"
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/4/8/11480/11480.txt:268: married you.  I remember the first time I let you come 'ome with me,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/5/2/11522/11522.txt:961:                 "Remember, you're not
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/5/5/11550/11550.txt:207: Remember the speed of the ball actually gives your opponent more time to
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/5/5/11550/11550.txt:504: Remember that the key to your shot making is mixing up your strokes and
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/5/5/11550/11550.txt:531: run away from you.  Just remember two things:  1) hustle after the ball
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/6/8/11689/11689.txt:391:     All good wives remember this--
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/6/8/11689/11689.txt:1098: industry in New York State, will remember when they have drawn off their
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/8/1186/1186.txt:469: Dost thou remember how the clouds were driven?
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/8/1186/1186.txt:810: Soeur Monique, remember me.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/8/1189/1189.txt:113: is pleasant to remember past dangers, is it not at least as pleasant
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/8/1189/1189.txt:252: her disappointment. I sought, but sought in vain, to remember any of the
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/8/1189/1189.txt:464: suffering from some serious complaint. I cannot remember now what it
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/9/3/11939/11939.txt:276: through the poetry he recited to himself. His favorite, I remember, was
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/9/3/11939/11939.txt:550: difficult to remember them. They fade irrevocably even while I speak. It
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/9/9/11990/11990.txt:952:     Farewell! and until the dolors of death are mine shall I remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/0/0/12007/12007.txt:254: Let me ever this remember,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/0/0/12007/12007.txt:998: "But this remember, darling,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/0/0/12007/12007.txt:1414: 'Mid your sports remember ever
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/0/0/12007/12007.txt:1437: "So remember, Christmas morning,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/0/0/12007/12007.txt:1565: If not, you will soon remember,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/0/0/12007/12007.txt:1854: As you try, remember ever
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/0/1/12010/12010.txt:428: in geometry. There was a folding over, you remember, and a fitting
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/0/1/12017/12017.txt:270: Penzance who remember his poems and verses, written at the early age of
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/1/1215/1215.txt:231: father did not remember his own decaying powers while he looked on that
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/1/1215/1215.txt:996: "Remember Dona Elvira!" cried the thing, with its teeth set fast in the
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:64: about it, said that 'e knew wot it was, but 'e couldn't remember the name
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:371: good I'd like to 'ave something o' yours to remember you by, sir.  And it
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12127/12127.txt:162: for company.  Lord!  Do you remember the Dutch brig, and the fat
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12129/12129.txt:279: "Remember the conditions," said Halibut, impressively.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12129/12129.txt:395: "Remember Bruce and his spider," smiled the other.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12129/12129.txt:480: "Remember the conditions, Major Brill," said Mrs. Riddel, with severity.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/1/3/12130/12130.txt:80: remembered, as the last thing that he could remember, that he had warned
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/1/3/12130/12130.txt:185: The doctor shook his head again.  "The last thing I can remember, Harry,"
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/1/3/12130/12130.txt:503: please to remember that I'm ill, and can't bear that horrible noise
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12152/12152.txt:331: and things o' that sort.  So far as I remember, I 'ad two more goes o'
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12153/12153.txt:380: A lot o' people admired that dog.  I remember, on the fourth night I
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12155/12155.txt:423: "Do you remember that girl with copper-coloured hair that used to live
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12155/12155.txt:428: "Do you remember coming to me one day--two days after Valentine Day, it
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12155/12155.txt:465: and you didn't want to lose them both.  Do you remember sitting with the
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12159/12159.txt:200: once.  Can't you remember?"
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12159/12159.txt:342: cheer up.  Wot a lovely day it is, isn't it?  I shall remember it all my
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12206/12206.txt:42: count of it.  The last bit of it I remember was about forty years ago,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12206/12206.txt:161: remember wot she'd done with that broom.  She couldn't find it anywhere,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12207/12207.txt:173: him closely, tried to remember something she had once read about
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12208/12208.txt:194: Mr. Gunnill acquiesced.  "I remember when I was on the _Peewit,_" he
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:287: But the very next night 'e had reason to remember Bill Chambers's words.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:325: remember."
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:436: "He 'ad 'em on this evening," ses Bob Pretty, "'cos I remember noticing
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:447: with me.  Come to think of it, I seem to remember 'earing a splash."
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12210/12210.txt:100: used it myself--he cert'nly was soft, and I remember 'im telling me once
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12210/12210.txt:108: "Remember who you're speaking to; that's wot I said," ses Dixon.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12212/12212.txt:58: I remember one chap, as nice a fellow as you could wish to meet, too.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12212/12212.txt:171: the love-affairs he could remember, until at last Peter Russet got tired
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:290: he'd remember it.  He stood there trembling all over with temper, and
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:367: trick.  Some of you as wos 'ere last Tuesday when I did it will remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12214/12214.txt:342: "Were you?" said Mr. Stiles, sharply--"were you?  I don't remember it,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12214/12214.txt:346: If you remember, sir, I said to you that it was pretty hot work."
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12214/12214.txt:363: dangers.  We have been in many tight places together.  Do you remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12214/12214.txt:528: remarked.  "And remember, George, there'll always be a knife and fork
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/2/1220/1220.txt:662: hast appointed after death for those who have been perfect, remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/3/3/12337/12337.txt:158: "I remember that it was very hastily but very honestly written, and it
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/3/9/12390/12390.txt:713: spelling. I remember hearing a highly-intelligent working-class orator
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/3/9/12394/12394.txt:896: remember to have seen. Not easy to take: this one is by DOWNEY.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/4/1/12417/12417.txt:87: things he said, and the tone in which he said them.  I remember at
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/4/1/12417/12417.txt:106: been passed there.  He had always fished; he could not remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/4/1/12417/12417.txt:144: tangle.  I remember the amusement with which a certain well-known
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/4/1/12417/12417.txt:428: r'liging."  I remember they told me of a little French Canadian
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/6/1/12615/12615.txt:96: But I cannot cease to remember that this story is out of my own
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/6/1/12615/12615.txt:164: manners.  We shall long remember him for the tales told that
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/6/1/12615/12615.txt:249: "Would you get the shepherd meaning here?  Then remember that
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/6/1/12615/12615.txt:368: country.  I remember one near my home called 'the valley of
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/6/1/12615/12615.txt:395: "On hearing this, the sheep remember the shepherd; they heed his
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/6/7/12671/12671.txt:592: remember that Cicero likens to heaven a port prepared, and prays
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/8/3/12830/12830.txt:221: to detract. The world will little note nor long remember what we say
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/9/0/12905/12905.txt:474: _Ed._ I can't know much if I did _that_. Odd I shouldn't remember it,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/9/0/12905/12905.txt:584: _Ang._ (_eagerly_). But I _don't_. I remember now, you sat perfectly
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/9/0/12905/12905.txt:913: century I consequently can remember both the Plague and Fire of
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/9/0/12905/12905.txt:938: time cannot remember where I heard the story.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/9/0/12905/12905.txt:944: by Marlborough House. I accompanied my mother, who wore, I remember,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/2/9/0/12905/12905.txt:1061: remarked that he did not remember any case in which the holder of
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/0/0/13004/13004.txt:446:   Remember not to be a Goop!
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/1/3/13137/13137.txt:756: remember your experience in your waking state.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/1/3/13137/13137.txt:767: misnamed dead, and they can often remember their astral happenings in
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/1/3/13137/13137.txt:774: write down your dreams in the morning, if you cannot remember your
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/1/3/13138/13138.txt:1076: worthiness. If one could always remember that he is a saviour, and
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/1/4/13142/13142.txt:554: by the result. He should remember that whatever he lacks in will power
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/1/6/13167/13167.txt:95: REMEMBER, PLEASE!
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/1/6/13167/13167.txt:1222: REMEMBER, PLEASE!
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/2/1/13213/13213.txt:221: something must be done to make the little boy remember.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/2/1/13213/13213.txt:258: heedless she would say, "Remember, Santa Claus does not forget."
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/2/5/13253/13253.txt:681: present_. And why? Well, do my readers remember the honest milk-maid's
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/2/5/13253/13253.txt:1145: to BALFOUR in the matter of his Government of Ireland. You remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/2/5/13253/13253.txt:1277: _Waddilove_. Middle-aged play-goers will remember both pieces; and in
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/2/7/13274/13274.txt:145: Answ. _Remember the Sabbath-day to keep it holy, six days shalt thou
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/2/7/13274/13274.txt:429: Remember thy Creator in the dayes of thy Youth; and thy Creator will
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/2/7/13274/13274.txt:430: remember thee in the dayes of thy Old Age.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/3/1/13311/13311.txt:174: satire is to remember that, while some metaphors do seem to deserve
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/3/1336/1336.txt:685: Christian hope.  Yet we remember well the writer of a popular memoir on
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/3/1336/1336.txt:783: remember also that he was an Atheist from his boyhood; we reflect how
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/3/2/13327/13327.txt:111: "How well I remember my first group of 'Young Men,'" pursued _Mr.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/3/2/13327/13327.txt:609: Remember it as if it were yesterday. It was MELBOURNE's Ministry; but
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/3/2/13327/13327.txt:626: crowning a large, well-shaped head. Remember noticing how carefully
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/3/2/13327/13327.txt:687: Amongst the prominent Members of this Parliament I remember ROEBUCK
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/3/2/13327/13327.txt:705: remember as he sat above the Gangway in the Parliament of 1874, then
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/3/2/13327/13327.txt:715: 96, Not Contents 168," majority against Government 72. I well remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/3/5/13350/13350.txt:164:   notice, or excite our sympathy, we should remember that we likewise are
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/3/5/13350/13350.txt:893: Knowledge; and to remember, that a blighted Spring makes a barren Year,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/3/5/13350/13350.txt:1055: another, but by extrinsick and casual Circumstances. "Let me remember,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/3/7/13373/13373.txt:69: remember his name at this moment--something like BUDKIN, but it wasn't
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/3/7/13373/13373.txt:749: "I remember once at a dinner of the Royal Academy, wishing there
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/4/3/13439/13439.txt:96: remember those Hours, I can't forget the cheerful and ready
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/4/3/13439/13439.txt:123: World, I perswade my self you will remember, that it must inlarge
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/4/3/13439/13439.txt:124: and brighten daily. Remember what the World will expect from the
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/4/3/13439/13439.txt:127: and Goodness. Remember what God himself will expect at your hands,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/4/3/13439/13439.txt:551: 5 Remember all the dying pains
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/4/6/13465/13465.txt:486: countrymen, and as far as I can remember St. Goarshausen, it is not
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/4/6/13465/13465.txt:589: fancy I remember this _Black and White_ correspondent, for it must
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/4/9/13491/13491.txt:330: unpleasant into the teeth of RAIKES. It is as well to remember that
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/5/0/13503/13503.txt:529:   And, for all that has happened, I like to remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/5/1357/1357.txt:607: on; tell me the same old story. But please remember that my experience
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881-0.txt:679: Matter too ſeriouſly, I hope they will remember, that however trifling
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881-0.txt:763: received very great Advantages, which I ſhall ever remember with the
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881.txt:677: Matter too seriously, I hope they will remember, that however trifling
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/8/13881/13881.txt:761: received very great Advantages, which I shall ever remember with the
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/8/9/13899/13899.txt:713: scarcely venture to state, but who will here remember this scene.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/9/5/13954/13954.txt:643: [Illustration: OUR MEN WHO LOOK TO LONDON, REMEMBER THAT--]
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/9/7/13974/13974.txt:663:     We remember, wherever we stray.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/9/8/13986/13986.txt:262: question, I remember to have read the remark of a distinguished
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/9/8/13986/13986.txt:335: gentlemen who so ably represent Virginia on this floor, to remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/9/8/13986/13986.txt:585: been, so far as I remember, any systematic argument on the perfectly
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/9/8/13988/13988.txt:861: earthly. Oh remember, you _will be the best citizens, just when you
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/9/9/13994/13994.txt:490: _Culch._ If I remember rightly, you yourself were not insensible to
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/9/9/13994/13994.txt:1067: fashion. I remember that in that case the critics were respectfully
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/9/9/13994/13994.txt:1212: can remember, and as neither his memory nor his legal knowledge is
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/0/4/14040/14040.txt:651: And there's a first and second death. Remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/0/7/14074/14074.txt:77: remember, by _The Dean's Duty_, which, being published at a time when there
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/0/7/14074/14074.txt:479: certainly remember his name, if I require a guide.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/0/7/14074/14074.txt:625: Investors will remember that, in the course of the last German Expedition
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/1/0/14101/14101.txt:399: getting rid of a bad master, remember that you have a good one, the
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/1/0/14101/14101.txt:488: "Remember, it must be a surprise for her," his small daughter reminded
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/1/0/14101/14101.txt:752: will remember it and follow it sometime.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/1/1/14111/14111.txt:227: When anyone speaks to us in anger, we should remember that it takes
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/1/1/14111/14111.txt:540: remember you every day, and be a sunshine maker, too."
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/1/1/14116/14116.txt:312: "There hasn't been a fourteenth of February since I can remember,"
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/1/1/14118/14118.txt:406: wheel. If I remember rightly, the granary window is just over the wheel.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/1/1/14118/14118.txt:684: pretty head, and remember I 'deserve the fair' after having been so
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/1/1413/1413.txt:441: now remember that I was remarking on your conduct being a Nuisance.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/1/2/14122/14122.txt:1240:   (I remember the time when we used to meet in "the pepper-pots," over
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/1/2/14124/14124.txt:448: him the "Goldsmith of the age;" and of Goldsmith we must remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/1/3/14138/14138.txt:248: added. "Do you remember about that?"
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/1/3/14138/14138.txt:461: learn to remember.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/1/3/14138/14138.txt:484: as if he almost could not remember. Every day for a week, he had to
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/1/3/14138/14138.txt:500: forget." It was the hardest thing Donald could remember ever happening,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/1/3/14138/14138.txt:504: ought to remember.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/1/3/14138/14138.txt:529: These two little girls did not remember the verse their teacher had
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/1/4/14147/14147.txt:577: you remember what the teacher told you today about General Washington
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/1/4/14148/14148.txt:127: remember always, but I tried."
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/1/4/14148/14148.txt:264: "So now I'm done. And I will give you a kiss to remember it by."
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/1/6/14166/14166.txt:799: _Leonina Societas_. Remember, also, JOSEPH, what an awful example you
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/1/6/14166/14166.txt:854: and even talked once, if I remember rightly, of putting the Principals
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/1/6/14166/14166.txt:1108: "Well," he replied, "they are not usual with me; but I remember that
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/1/8/14186/14186.txt:763: ewen by anshant Deppertys, sumthink not to remember, but sumthink to
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/1/8/14186/14186.txt:833:     _Punch_ can right well remember.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/1/8/14186/14186.txt:1305:   I remember asking Uncle--in my innocent surprise--
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/1/9/14199/14199.txt:594: cheerful. Do you remember the part you played in it?
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/2/1/14217/14217.txt:946: in hand. And, remember, that is not nearly all. These fifteen fatal
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/2/1427/1427.txt:136: make ourselves. What man with any poesy in him does not remember some
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/2/1427/1427.txt:466: remember, dear uncle, one of those old oaks, whose knotty trunks, from
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/2/1427/1427.txt:580: fisherman, "I can look back and remember all that--and Cambremer, too,"
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/2/2/14220/14220.txt:72: I do not remember the separate names of their children; they were
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/2/3/14238/14238.txt:779: will remember), it is, perhaps, not so very surprising that no
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/2/5/14250/14250.txt:338:       Remember, remember,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/2/5/14250/14250.txt:872: then I have to make believe very much that I remember them, and to
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/2/5/14250/14250.txt:927: or, if my sub-consciousness knows, I never remember, who anybody
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/2/7/14272/14272.txt:480: quite the outline, though, if I remember right. And, if that's the
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/2/7/14272/14272.txt:488: On'y I don't quoite remember whether the colour o' them gas-lamps is
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/2/7/14272/14272.txt:492: _Mrs. L.S._ Do you remember our _last_ gondola expedition, LAVENDER,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/2/7/14272/14272.txt:948: _L.C.J._ Talking of meetings, do you remember that Exeter story dear
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/2/7/14272/14272.txt:971: _L.C.J._ Talking of cross-examination--do you fellows remember the
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/2/7/14272/14272.txt:1020:   I remember, I remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/2/7/14272/14272.txt:1029:   I remember, I remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/2/7/14272/14272.txt:1038:   I remember, I remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/2/7/14272/14272.txt:1047:   We remember, we remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/2/7/14272/14272.txt:1056:   I remember, I remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/3/2/14321/14321.txt:368:     lugubriously whistling as much as he can remember of "Che
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/3/3/14335/14335.txt:107: Remember that for teaching children to read there are no more attractive
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/3/3/14335/14335.txt:127: subscription as nearly as possible. Remember that WE are not
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/3/4/14341/14341.txt:993: _Fair Matron._ "I REMEMBER YOUR ACTING '_SIR ANTHONY,' YEARS_ AGO,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/3/4/14341/14341.txt:1216: I remember that in my first term I was not very agreeably impressed
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/3/4/14341/14341.txt:1249: our number. I think I shall remember that ghastly festivity as long as
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/3/4/14344/14344.txt:504: remember, I lent you my last sov. not five minutes ago?
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/3/6/14364/14364.txt:157: it looks better lighted up. I remember the last time I was down there
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/3/6/14364/14364.txt:542: sort I remember: cards, not. As to calculation and inferences, I give
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/3/6/14364/14364.txt:745:   Won't warm our wives and kids. Strike!--but remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/3/6/14364/14364.txt:997: "Dear me," said ESSLEMONT, who overheard the remark; "I don't remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/4/0/14408/14408.txt:167:     _Remember this,--that there is a proper dignity and proportion to
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/4/0/14408/14408.txt:298: will not be noted. Say "Yes, Sir," to men. And remember,--
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/4/4/14445/14445.txt:301: You remember, the flowers had a language which we could understand, even
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/4/4/14445/14445.txt:400: You remember, the leaves not only had to breathe but they had to digest
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/4/4/14445/14445.txt:476: You remember, Violet, I told you that although mothers do not have to
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/4/4/14445/14445.txt:507: You remember, I told you, Violet, that every month, or every
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/4/4/14445/14445.txt:515: You remember, I told you this flow, which we call the menstrual flow,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/4/4/14445/14445.txt:623: You remember, the stomach had a great deal of work to do in digesting
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/4/4/14445/14445.txt:652: remember it. Then we need have no trouble with constipation nor take any
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/4/4/14445/14445.txt:684: pure air, which, you remember, helps to make the red coloring matter
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/4/4/14445/14445.txt:797: although each one has its especial part to do. You remember, we found
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/4/4/14445/14445.txt:907: best thing for you to do, remember that mother will be glad to answer
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/4/8/14483/14483.txt:398: One story I remember in particular, though I dare not attempt to repeat it
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/4/8/14483/14483.txt:549: _Earl._ And now, let us remember that while the sun shines, the moon clings
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/4/8/14483/14483.txt:991: _Sergeant Kite_ (_continuing_). Then you must remember that we are
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/4/9/14493/14493.txt:560: teach them, and they write it down, and try to remember it. But I teach
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/5/0/14508/14508.txt:228: No, WALTER corrects her, that was afterwards; don't you remember,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/5/0/14508/14508.txt:249: up. But I can remember it all clearly enough, even if it was so long
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/5/0/14508/14508.txt:303: can remember my father saying sometimes in the morning, "The floor
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/5/0/14508/14508.txt:379: Christmas, and don't you remember, that one of the ways in which
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/5/0/14508/14508.txt:388: Oh, I remember, exclaims GERTRUDE. That was the way we did last
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/5/0/14508/14508.txt:389: year. Don't you remember, Walter? Walter nods. And last year,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/5/0/14508/14508.txt:527: They went to bed long ago, says MOTHER. Don't you remember? And now
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/5/0/14508/14508.txt:698: pudding on the saucers. I wonder if she will remember about giving it
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/5/1/14514/14514.txt:961: pug-nosed, Irish New York policeman. I remember no more till New York
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/5/1/14514/14514.txt:1028: you remember old JACK WILLIAMS." This does not entertain the beauty,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/5/1/14514/14514.txt:1090: remember the date. It might be a good thing to write these matters
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/5/1/14514/14514.txt:1104: all say "Mr. McDUFFER!" How am I to remember which is the General and
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/5/1/14514/14514.txt:1237: I can remember the circumstances very well, and I am inclined to think
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/5/1/14514/14514.txt:1288: Diaries. And remember I shall be very glad to answer any questions on
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/5/1456/1456.txt:591: "Remember, my son, that it is not enough to have taken no active part in
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/5/2/14528/14528.txt:206: _I remember somewhere an Observation of St._ Evremont _(an Author whom
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/5/3/14531/14531.txt:105: _O, do you remember? How it came to be?_          21
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/5/3/14531/14531.txt:615: O do you remember? while our eyes were holden,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/5/4/14543/14543.txt:482: assist me to remember my duty.' I resolved to break my pipe the first
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/5/4/14544/14544.txt:177: "Steady there!" said the Voice. "Remember your promise!"
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/5/4/14544/14544.txt:1331: superiority, it may perhaps be as well to remember that women are
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/5/7/14572/14572.txt:209: "Does not the Prince Michael remember how the angel of the Lord led
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/5/7/14572/14572.txt:604: remember what other people have done for you; to ignore what the world
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/5/7/14572/14572.txt:618: of little children; to remember the weakness and loneliness of people
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/5/9/14592/14592.txt:666: egress at the back of the Theatre?_ He (Mr. TOOLE) did not remember ever
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/5/9/14592/14592.txt:691: Then, remember, _Walker, London_.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/5/9/14592/14592.txt:1103: remember that the manoeuvre was a success. Certainly not been generally
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/6/0/14602/14602.txt:1249: remember those two young men from across the border? They worked all one
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/6/0/14602/14602.txt:1482: remember I had to look out for you in the beginning when you talked
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/6/1/14616/14616.txt:845: _Remember_ and _Inquire_, my old Professors,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/6/1/14616/14616.txt:1397: Remember those who fought the trees
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/6/2/14628/14628.txt:570: many a sigh; and, as you may remember, sir, on leaving us this
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/6/5/14652/14652.txt:989: part, Remember, reader, he were that good in his hart.'"
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/6/7/14673/14673.txt:162: Every lover of books will remember that during the continuance of the
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/6/9/14694/14694.txt:479: remember whether I told SARAH to put out the fiddle-pattern forks and
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/6/9/14694/14694.txt:1017: Don't remember what the subject was, but never forget CALDWELL's
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/6/9/14695/14695.txt:310:     To us old boys, who can remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/6/9/14695/14695.txt:1131: sentimental terms with him. I remember a case in point. A young girl,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/6/9/14695/14695.txt:1142: woman could not remember that there is a time for sentiment and a
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/7/4/14745/14745.txt:838: fetch them). Remember to give ROBY one or two for himself over his
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/7/8/14783/14783.txt:802: marking boundaries (_Digesta_, X. 1. 13): "We must remember in an
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/7/8/14785/14785.txt:404: Almost, _says_ GRANDMOTHER: Why, I can remember when all your
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/7/8/14786/14786.txt:157: mantel-piece. Don't you remember that, Father?
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/7/8/14786/14786.txt:184: stocking you ever hung up for Santa Claus, and don't I remember how
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/7/8/14786/14786.txt:506: You must be very quiet for Santa Claus is sick, remember, and a noise
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/7/8/14786/14786.txt:724: room is all dark, just as Mother left it, you remember, when she went
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/7/8/14786/14786.txt:849:   Remember Christ our Saviour
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/7/8/14786/14786.txt:959: are sure to like very much indeed. You will remember that they had only
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/7/9/14797/14797.txt:120: remember the place.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/7/9/14797/14797.txt:123: dig, and he could not remember. And then he dug again and found some nuts
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/8/2/14821/14821.txt:506:   Before we could remember anything but the eyes
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/8/4/14845/14845.txt:327:   And do you remember the bard
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/8/4/14845/14845.txt:549: that. Remember that "the floor of the Court is _not_ the same thing as
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/8/4/14845/14845.txt:824: Remember, in years gone by, before the blight of neglect in high
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/8/4/14845/14845.txt:882: "You remember TOBY, what HEINE said of DE MUSSET? 'A young man with a
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/8/5/14855/14855.txt:594: of love gone another way, let them try this new cure, and remember the
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/8/7/14871/14871.txt:398: In foulest guilt? Remember, that, he is somebody's child.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/4/9/4/14946/14946.txt:215: to-day. I don't suppose you remember my speaking of it, but I've had my
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/0/0/15003/15003.txt:139: birds are going fast. Some very old men can still remember the great
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/0/0/15003/15003.txt:614: would ask you to remember what seabird conservation means down there. It
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/0/0/15007/15007.txt:315: FRESHMAN. I think you know a lot about Chaucer. I never will remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/0/0/15007/15007.txt:753: JUNIOR. I don't know. I can't remember anything.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/0/0/15007/15007.txt:770: JUNIOR. (_puzzled_) Who are you? I just _can't_ remember.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/0/8/15089/15089.txt:779: champagne you'll remember my bully beef. I hope when a shell or
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/1/4/15142/15142.txt:97: many varieties which you must either remember or submit to nave your
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/1/4/15142/15142.txt:737: majority found salvation. Remember across the years how he put
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/1/4/15144/15144.txt:1169: Minister. Do you remember the lines written by an unknown hand on the
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/1/4/15144/15144.txt:1221: of fellows down there. Remember at General Election one took me neat.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/1/5/15153/15153.txt:206: into the house. Remember, they may steal new-married brides Upon May Eve.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/1/5/15153/15153.txt:960: Remember when I met you by the well
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/1/6/15166/15166.txt:435: _Mrs. All._ The Season? Why, I never remember one with so little
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/1/6/15166/15166.txt:1094: go at once, and stop there. As to money, remember your Uncle dwells in
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/1/9/15196/15196.txt:617: AND DO YOU REMEMBER ZE SO BEAUTIFUL YOUNG LADY MARY GWENDOLEN VERE DE
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/1/9/15196/15196.txt:622: LE MARECHAL, I REMEMBER HER ONLY TOO WELL!"
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/2/0/15209/15209.txt:85:   Remember those less fortunate, dear Father,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/2/1/15211/15211.txt:355:   Just please remember this,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/2/1/15211/15211.txt:436:   Remember Spring, how roses bloom and flamed!
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/2/1/15211/15211.txt:697:   Remember too when flushed with boastful pride,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/2/3/15234/15234.txt:326: cooked into! I did not remember that I had minced it up so fine; I
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/2/6/15266/15266.txt:613: more perfect satisfaction. Do you remember what Thackeray wrote? "If
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/2/6/15266/15266.txt:780: world. Do you remember what happened when the French Revolution took
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/3/3/15332/15332.txt:451: Nor do you neglect the young. Heavens! I remember I was once favoured
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/3/3/15332/15332.txt:467: eh? Well, remember I'm ready to lend you a hand, and pull you through
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/3/3/15332/15332.txt:477: Then there was CHEPSTOWE, the poet. I am old enough to remember him;
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/3/3/15332/15332.txt:663:   Yes! It's too much to remember the past--
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/3/3/15332/15332.txt:1084:     Oh! tell me why, why should I remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/3/3/15332/15332.txt:1167: grow sober before I can remember who it is. Annoying, isn't it?"
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/3/5/15358/15358.txt:796: appeals to you to remember your loving, hoping, poverty-stricken--and once
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/3/6/15366/15366.txt:553: day, as you remember, while yet he held his head high and strutted
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/3/8/15386/15386.txt:272: You will remember that it was found that Germany had a secret
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/4/0/15407/15407.txt:611: must always remember to set the colour with a quarter of an ounce of
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/4/4/15442/15442.txt:1242: time being. If I can remember anything else that might interest you,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/4/5/15457/15457.txt:372: It is to be hoped that this telegram is true, but we must remember that it
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/4/7/15471/15471.txt:143: You will remember that Santiago de Cuba is the province which the Cubans
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/4/7/15471/15471.txt:1035: It is well to remember that the pin-machine is a purely American
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/4/9/15494/15494.txt:83: As they went in together, Lilian said, "Now, remember, Earl, that when
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/4/9/15494/15494.txt:86: "I'll remember," said Earl, and then, as it was a large party, the two
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/4/9/15494/15494.txt:145: "You told me to remember," said Earl.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/4/9/15494/15494.txt:267: to be friends with Joey after a while. And you remember about coals of
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/4/9/15494/15494.txt:721: too early to teach such acts to a child. Remember that true politeness
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/5/0/15507/15507.txt:166: attached a bucket. How many of New-England's sons remember with delight
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/5/0/15507/15507.txt:289: remember the words of the apostle: "Children, obey your parents in all
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/5/0/15507/15507.txt:725: fatal night! Remember that he had been preparing for that season of riot
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/5/1/15518/15518.txt:646: If you remember, it was only recognized by our Government in December
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/5/2/15523/15523.txt:474: remember your Oxford or Cambridge sending out a medical unit to help
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/5/2/15523/15523.txt:825: Let the Briton remember:--
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/5/2/15523/15523.txt:827:   1. Remember you are talking to a _friend_.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/5/2/15523/15523.txt:829:   2. Remember you are talking to a man who regards his nation as
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/5/2/15523/15523.txt:833:   3. Remember you are talking to a man whose country has made an
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/5/2/15523/15523.txt:836:      and irksome supervision at your hands. Remember, too, that
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/5/2/15523/15523.txt:840:   4. Remember you are talking to a man who believes in
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/5/2/15523/15523.txt:847:   5. Remember this man is not so impervious to criticism as you
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/5/2/15523/15523.txt:849:      Remember you are talking to a man whose patience under such
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/5/2/15523/15523.txt:855:   6. Remember you are talking to a man whose business has been
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/5/2/15523/15523.txt:870: Let the American remember:
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/5/2/15523/15523.txt:872:   1. Remember you are talking to a _friend_.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/5/2/15523/15523.txt:874:   2. Remember you are talking to a man who regards his nation as
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/5/2/15523/15523.txt:878:   3. Remember you are talking to a man who is a member of a
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/5/2/15523/15523.txt:885:      Remember that this attitude is not specially assumed for
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/5/2/15523/15523.txt:890:   4. Remember you are talking to a man who is fighting for his
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/5/2/15523/15523.txt:899:   5. Enemy propaganda to the contrary, remember that this man is
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/5/2/15523/15523.txt:907:   6. Remember that your nation has done a great deal for this
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/5/3/15539/15539.txt:192: fine lads who find it hard to remember that clean hands and collars are
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/5/4/15545/15545.txt:328: "repentance," only a quiet mental note that we must in future remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/5/9/15594/15594.txt:978: He should also try and remember that no such jumble of contradictions
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/5/9/15594/15594.txt:1141: levelled! How well, how gratefully do I remember you! Still, in my
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/6/0/15605/15605.txt:342: got about he don't seem quite to remember; but he says, as how
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/6/0/15605/15605.txt:1177: How well I remember a certain day in the by-gone years, when for the
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/6/1/15613/15613.txt:456: You remember that we told you how President Cleveland tried to restore to
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/6/1/15613/15613.txt:644: The trouble is not yet over for the trusts. You remember about the
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/6/5/15656/15656.txt:525: Heathen Gods and Goddesses; for I remember I paid two Guinea's for
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/6/7/15677/15677.txt:1186:     Remember this plan as a final resource,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/6/8/15684/15684.txt:671: before. Then John began to grow angry. You remember, children, I told
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/6/8/15684/15684.txt:1074: Samuel tried to remember all that his uncle and cousins told him, and
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/6/8/15684/15684.txt:1081: You remember that Samuel was to go home at the end of August. Thomas and
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/7/3/15730/15730.txt:296: remember he asked me any more questions, but bid me welcome, and led
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/7/4/15740/15740.txt:969: ideal one if only its owners remember to set it, but the trouble with
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/7/4/15740/15740.txt:970: the shifting calendars is that so few people remember to adjust them.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/7/4/15740/15740.txt:1033: In making the selection of important events, remember that wars and
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/7/8/15785/15785.txt:1056: In making the selection of important events, remember that wars and
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/7/8/15789/15789.txt:214: In making the selection of important events, remember that wars and
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/7/8/15789/15789.txt:1174: justice and human freedom." "To comprehend is higher than to remember,"
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/8/2/15828/15828.txt:698: You remember that in the case of United States Vice-Consul Mr. Kellet at
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/8/2/15828/15828.txt:967: It has, if you remember, the largest lens in the world, and with it
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/8/5/15857/15857.txt:130: to remember, and to remind the world, that he was the son of a tenant
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/8/6/15861/15861.txt:299: Yet, let us remember that below this Christian consciousness lie the
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/8/9/15894/15894.txt:269: been interested always in guns--I remember how I, as a youngster, was
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/8/9/15894/15894.txt:596: "I've just left Charley Owen at the house--you remember Charley Owen?"
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/8/9/15894/15894.txt:604: "I remember now."
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/9/0/15906/15906.txt:121: "Couldn't remember the hour or the place to save my life," the younger
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/9/0/15906/15906.txt:123: did remember we were to dine at Martin's. So much I got all right--and
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/9/0/15906/15906.txt:936: evening which you will remember----"
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/9/0/15906/15906.txt:940: "I see you remember." Judge Rush smiled benignly. "Well, Mr. Fairfax,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/9/1/15916/15916.txt:123: Remember that text-books will
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/9/1/15916/15916.txt:337: may remember, accused Japan of assisting the rebels in Manila with the
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/9/1/15916/15916.txt:1142: In making the selection of important events, remember that wars and
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/9/1/15917/15917.txt:162: Remember that text-books will
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/9/1/15917/15917.txt:447: The ambassadors, if you remember, gave him a stern refusal to treat with
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/9/1/15917/15917.txt:1181: In making the selection of important events, remember that wars and
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/9/1/15918/15918.txt:340: You remember the Kootenai matter (see page 850), and how the Canadian
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/9/1/15918/15918.txt:1034: Remember that text-books will
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/9/1/15918/15918.txt:1118: In making the selection of important events, remember that wars and
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/9/1/15919/15919.txt:1014: Remember that text-books will
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/9/1/15919/15919.txt:1105: In making the selection of important events, remember that wars and
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/9/3/15936/15936.txt:757: remember. It came back to him that there was a woman in Galilee who had
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/9/5/15957/15957.txt:770:   Remember, dearest, I implore,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/9/7/15970/15970.txt:172: In making the selection of important events, remember that wars and
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/9/7/15970/15970.txt:333: It was further proposed, if you remember, that the Turkish troops were
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/9/7/15970/15970.txt:583: Sagasta has, as you probably remember, many kindly plans for Cuba, and
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/9/7/15978/15978.txt:501: man. You will be ready to fight again at Verdun. Remember, they have
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/9/7/15978/15978.txt:797: suggested it. She had hallucinations. Remember her age when they
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/9/7/15978/15978.txt:1024: "You are prompt, my son," said he, pleasantly, "but you must remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/9/8/15986/15986.txt:265: forty year sin--an' I could, too--though I say it mysel. I remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/0/2/16024/16024.txt:869: delightful to the young, and we distinctly remember the fierce battles
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/0/2/16025/16025.txt:143: remember that there are especial rules and laws which govern the conduct
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/0/2/16025/16025.txt:440: The Empress, as you doubtless remember, went out of her mind from the
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/0/2/16029/16029.txt:551: You remember that he started from Spitzbergen in a balloon, hoping to
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/0/3/16031/16031.txt:175: remember, professed themselves ready to submit to English rule, and when
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/0/3/16032/16032.txt:365: The Paris award, if you remember (see page 976), had to do with the
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/0/3/16032/16032.txt:736: pronounced _a_, and the _a_, _ah_. If you remember this it will help you
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/0/8/16085/16085.txt:593: "Remember the battle of Fleurus, and you will comprehend the utility of
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/1/3/16139/16139.txt:842: You remember that the Dingley Tariff Bill was passed by the House of
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/1/3/16139/16139.txt:1159: STATION-INDICATOR.--We remember once travelling in the winter in almost
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/1/4/16142/16142.txt:226: To begin, let us remember that traditionally this country and its
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/1/4/16142/16142.txt:294: Do we not still remember that the name of "Munich" symbolizes a vain
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/1/7/16176/16176.txt:559: services for their conquerors. You remember about the King of Benin. He
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/1/7/16177/16177.txt:56: You will remember our telling you about the passing of the charter last
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/1/7/16177/16177.txt:328: You probably remember our telling you that when first these people were
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/1/7/16177/16177.txt:334: You will also remember that permission was given some of these poor
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/1/7/16177/16177.txt:588: England's representative, of course, was not present. You will remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/1/7/16179/16179.txt:60: If you remember, we told you that Mr. Taylor said, in his article, that
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/1/7/16179/16179.txt:507: You will remember that it was suggested that the matter of the exclusion
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/1/9/16192/16192.txt:157: You remember, of course, that when the Powers occupied Crete, each
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/1/9/16192/16192.txt:346: You remember that home rule was promised to Crete, and that (after the
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/2/6/16263/16263.txt:104: remember his existence and his devotion.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/2/6/16263/16263.txt:852: I remember once finding myself, by some freak of mocking destiny, in
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/2/6/16263/16263.txt:881: brain. Even at this distance of time, I can remember how we all looked
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/2/9/16291/16291.txt:887: "And remember, my son," said he, fixing his deep-set eyes upon the face
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/3/6/16369/16369.txt:188: was sitting. His device on this occasion, as I well remember, was to
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/4/7/16475/16475.txt:735: A durbar is, as you no doubt remember, a levee or reception.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/4/9/16495/16495.txt:1159: lightened? You can't do too much for your boys. Remember what they are
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/4/9/16495/16495.txt:1160: doing for you. Remember the lives that are being laid down for you.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/4/9/16498/16498.txt:48: Count Badeni was, as you will remember, particularly obnoxious to the
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/4/9/16498/16498.txt:471: You probably remember the methods employed by the insurgents for burning
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/4/9/16498/16498.txt:618: CURRENCY QUESTION.--You will remember that he was very anxious to make
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/4/9/16498/16498.txt:785: probably remember, is on Norton Sound, and is one of the principal
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/5/2/16522/16522.txt:153:     And well do I remember there a little shallow creek,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/5/2/16522/16522.txt:739: I remember sitting for hours on the slender bridge just below the Upper
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/5/2/16524/16524.txt:150: receive the Magazine without any interruption. Remember that the amount
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/5/2/16524/16524.txt:345: Remember this, boys, when you are trying to teach Dash or Carlo to fetch
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/5/8/16580/16580.txt:164: You remember he tried to get the bill referred to a certain committee.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/5/8/16580/16580.txt:169: get through the House, and which, you remember, is to prolong the
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/5/8/16580/16580.txt:290: The importers, if you remember, declared that the bill only became a law
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/5/8/16580/16580.txt:529: You will remember General Sanguilly promised, if he were freed, never to
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/6/1/16616/16616.txt:695:     I remember when our pride
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/7/1/16716/16716.txt:382: eyes again, and I heard the voice. I remember the tune and the words."
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/7/1/16716/16716.txt:602: of her duty, Bagot. How well I remember that first day when you knelt
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/7/1670/1670.txt:502: Eat! This is My body, which is given for you. Do this to remember Me!'
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/7/1670/1670.txt:506: do, as often as you drink it, to remember Me!'"
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/8/3/16839/16839.txt:736:     To remember for years--
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/8/3/16839/16839.txt:737:     To remember with tears!
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/8/7/16879/16879.txt:154:   Far be the day that I may not remember,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/6/9/7/16977/16977.txt:115: As you read these letters remember these women are stating for the
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/0/0/17008/17008.txt:213: amongst vs here, as this present age cannot yet very well remember, both
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/0/0/17008/17008.txt:398: they prolong their dayes, by their swinelike diet, but neuer remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/1/1710/1710.txt:686: voice of strange emotion, 'Remember, if you should find no one there,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/1/2/17124/17124.txt:85: easy to remember:
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/1/3/17134/17134.txt:513: Moreover, I am old enough to remember when cookery-books were sold
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/1/4/17145/17145.txt:178: "Do you remember what fun we had last year, Chuck?" remarked Toad, for
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/1/4/17145/17145.txt:721: "That's a good one for you to remember, Toad," laughed the others.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/1/4/17145/17145.txt:753: "Only one puff each, remember, so make it a big one," he laughed.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/1/6/17168/17168.txt:147: understanding. I remember that her personation of a certain Mrs.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/1/6/17168/17168.txt:864: clearly remember as being the burden of all congratulations. "Struck
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/1/9/17192/17192.txt:92: "Ah, distinctly I remember, it was in the bleak December,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/1/9/17192/17192.txt:704: Ah, distinctly I remember it was in the bleak December,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/1/9/17192/17192.txt:836:     "Ah, distinctly I remember it was in the bleak December,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/2/1/17214/17214.txt:750: great volume, "for I remember just what mother said about it when she
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/4/1/17415/17415.txt:683: I remember that, after a long pause, I asked, to reassure myself, "Mr.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/4/1/17415/17415.txt:737: morning returned to our work. I can well remember our exultant feeling
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/4/9/17499/17499.txt:359: It won't take long to learn these things; and you need not remember them,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/4/9/17499/17499.txt:497: You must remember also that there is a certain amount of allowance to be
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/5/1753/1753.txt:380: if I don't mind ruining my health, I ought at least to remember my age,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/5/1753/1753.txt:442: across the lonely fields. I shall die, and no one will remember me. It
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/5/1753/1753.txt:460: pit that has swallowed them all! I remember it all now. Forty-five years
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/5/1753/1753.txt:468: passionate youth, I remember a woman loved me for my acting. She was
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/5/1753/1753.txt:470: summer dawn. Her smile could charm away the darkest night. I remember,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/5/1753/1753.txt:620: am too old.... Yes.... Do you remember those lines from Othello,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/7/1/17711/17711.txt:1204:     That thus thou mayst remember me!
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/7/3/17735/17735/17735.txt:689: I do remember thee so blest and filled
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/7/3/17735/17735/17735.txt:1041:   Not to remember what through mists of tears
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/7/3/17735/17735/17735.txt:1166: Remember still the visions that are thine
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/7/4/17742/17742.txt:522: thousands which I have examined, I do not remember to have ever seen
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/7/5/17750/17750.txt:290: No, he could not do that. He would play too, and try to remember all
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/7/5/17750/17750.txt:383: true manliness within him. It was the determination to remember that
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/7/5/17750/17750.txt:385: his consideration and gentleness. And he did remember that all his
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/7/5/17750/17750.txt:1042: mother, I told you I was moved up yesterday; don't you remember? But
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/8/2/17825/17825.txt:138: like it, saying, "By this she will remember. She will not be ungrateful
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/8/2/17825/17825.txt:210: Straightway right royally shalt thou be clad. But remember carefully the
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/8/2/17829/17829.txt:132:        HOW TO REMEMBER NAMES
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/8/2/17829/17829.txt:345: Castle, which he did not remember to have ever previously visited. As he
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/8/2/17829/17829.txt:842: general ability to remember by incessant practice in memorizing
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/8/2/17829/17829.txt:859: from the Bible, daily. He is asked to remember the number of the page of
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/8/2/17829/17829.txt:895: remember it, harness it up with the lure of a desire.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/8/2/17829/17829.txt:902: [Illustration: TESTING ABILITY TO OBSERVE, REMEMBER AND REPORT THINGS
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/8/2/17829/17829.txt:921: remember any particular fact, your conscious effort should be not
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/8/2/17829/17829.txt:932: If you find it difficult to remember a fact or a name, do not waste your
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/8/2/17829/17829.txt:1000: [Sidenote: _How to Remember Names_]
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/8/2/17829/17829.txt:1002: Do you find it difficult to remember names? It is because you do not
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/8/2/17829/17829.txt:1032: remember. At the end of the week you will be surprised at the
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/8/2/17829/17829.txt:1076: you--will you remember it tomorrow when the hour for action arrives?
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/8/2/17829/17829.txt:1083: the mental picture. In other words, to remember thoughts, cultivate
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/8/2/17829/17829.txt:1084: thought-observation just as you cultivate sense-observation to remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/8/2/17829/17829.txt:1168: whole self into the determination to remember it at precisely the right
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/8/8/17887/17887.txt:159: for fear she should remember that she ought to be good. She ran out
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/8/8/17887/17887.txt:649: could not quite remember where it came in, whether it was on a main
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/8/8/17887/17887.txt:790: and hopeless tone, "I suppose it was, and I guess I remember you too.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/8/8/17887/17887.txt:897: "I remember now Aunt Peggy told Hannah about it," whispered Letitia
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/8/8/17887/17887.txt:1111: loving arm around him. "You remember my grandson Joe, don't you,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/9/5/17956/17956.txt:415: for a second time, he would remember the song from the first telling and
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/9/5/17956/17956.txt:456: I remember thinking at the time how strange it seemed that the
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/9/8/17987/17987.txt:805: is ever one which fills peaceful nations with terror. We may remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/7/9/8/17987/17987.txt:808: time always victorious. We may remember how civilization in Minnesota
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/1/0/18105/18105.txt:885: remember, when we were all in the ship together--you and I and Analea
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/1/0/18109/18109.txt:272: There was more to it, but he couldn't remember; something about empty
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/1/0/18109/18109.txt:275: than Poictesme. Then he stopped trying to remember as the ship turned
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/1/0/18109/18109.txt:455: Remember the big underground headquarters complex in the Calders?
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/1/0/18109/18109.txt:655: troops in the field needed. I remember once--"
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/1/0/18109/18109.txt:886: "And where'll we sell what we produce? Remember, the mines closed down
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/1/1819/1819.txt:150: remember, is this, that, though I do not care--I WANT to care."
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/1/1819/1819.txt:483: "Oh, I remember," laughed Polly Kirkland. "I was to send you a sign,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/1/9/18194/18194-0.txt:270: into the particulars of that noble life? You will remember that he was
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/1/9/18194/18194.txt:267: into the particulars of that noble life? You will remember that he was
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/2/1/18210/18210.txt:403: Those who've read S. T. Coleridge remember how Sammy sighs
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/2/1/18210/18210.txt:1079: (I declined to give more, I remember, than fifty centeems to the waiter;
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/2/1/18210/18210.txt:1149: You remember my lyrics _translated_--like "sweet bully Bottom"--from Hugo?
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/2/1/18210/18210.txt:1203: (You remember their title--The Tramp--only seven-and-sixpence--not dear),
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/2/1/18210/18210.txt:1308: (You remember perhaps that was one of the first little things that I
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/2/1/18210/18210.txt:1318: You remember those verses I wrote on Irene, from Edgar A. Poe?
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/2/1/18214/18214.txt:236: absent-minded and does not long remember the instructions which he
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/2/1/18214/18214.txt:307: forget; and remember that it is lawful and even commendable to chase and
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/2/1820/1820.txt:49: The great man nodded. "I remember. What about him?"
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/2/1820/1820.txt:87: remember, we used to see him before breakfast wandering around the
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/2/1820/1820.txt:380: "And it is well they should remember that the law is no respecter of
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/2/1821/1821.txt:502: "You are right," he said. "Let us both remember her in our prayers."
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/2/1822/1822.txt:52: liners; she could not remember when state-rooms were named after the
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/2/1822/1822.txt:132: things I would remember seventeen. The next best guess would be about
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/2/3/18238/18238.txt:1775: One I remember kept his coin,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/3/4/18342/18342.txt:69: It was all right; he was going to be able to remember. He could still
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/3/4/18342/18342.txt:487: over what had been Auburn, New York. He was trying to remember, as
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/3/5/18351/18351.txt:413:       I have known sorrow; I remember praise,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/3/5/18351/18351.txt:781:     I can remember how, in childish days,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/3/5/18351/18351.txt:1198:     I can remember well when first I knew
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/3/9/18392/18392.txt:468:     'Tis the sweetest thing to remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/3/9/18398/18398.txt:82: change of condition. I remember telling the Doctor, on his first visit
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/3/9/18398/18398.txt:361: There is a Miss Snow here from St. Stephens. I remember distinctly when
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/3/9/18398/18398.txt:384: had plenty of food in my closet, but I don't remember eating any more. I
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/3/9/18398/18398.txt:393: he telegraphed to Tom to come to his assistance. I remember I kissed him
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/3/9/18398/18398.txt:429: Fredricton, in Trinity Church. I well remember the pressure of that
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/3/9/18398/18398.txt:451: I had two bonnets, but they never mentioned them, as I remember. They
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/3/9/18398/18398.txt:462: Poor boys, I wonder if they remember that journey in the cars as I do.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/3/9/18398/18398.txt:583: I remember, was worse than common days of trouble. I had been excited by
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/3/9/18398/18398.txt:802: and hospitality I shall ever remember with grateful pleasure. They will
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/3/9/18398/18398.txt:821: words, as near as I can remember, and I left the Government House,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/4/0/18409/18409.txt:306: remember me for it."
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/4/0/18409/18409.txt:838: "This will help you to learn it," said Marjorie. "I remember it, so you
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/4/0/18409/18409.txt:910: "Do you remember what I told you, a while ago, that real work is?"
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/4/1841/1841.txt:821: emancipation. It will always remember the young representatives of the
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/4/6/18460/18460.txt:839: "Remember, General, that man has been using atomic energy for ten
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/4/6/18460/18460.txt:843: breathe. Now, you remember hearing of the great wars of the first
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/5/2/18524/18524.txt:415:     Why should May remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/5/2/18524/18524.txt:437:     With nought to forget or remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/5/2/18524/18524.txt:447:     Remember me not or forget not
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/5/2/18524/18524.txt:457:     Remember, forget, and remember,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/5/2/18524/18524.txt:845:     Will remember me too
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/5/2/18526/18526.txt:115: for I am busy. Kindly remember that I am but just returned from over
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/5/2/18526/18526.txt:444: remember the place I mean.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/5/4/18540/18540.txt:435: wrong. I cannot remember when I did not so think and feel; and yet I
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/5/4/18540/18540.txt:534: remember him in their prayers. Amid tears and sobs they answered "We
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/5/4/18540/18540.txt:672: remember the tent scene--
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/5/4/18540/18540.txt:786: Him, and the remainder of wrath will He restrain. Remember, and take
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/5/4/18540/18540.txt:787: heart as you remember, the ringing line of Whittier.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/5/7/18574/18574.txt:820: This is the tale, as I remember it.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/6/3/18632/18632.txt:53: Readers who remember the Hon. Stephen Silk, diplomat extraordinary, in
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/6/3/18632/18632.txt:281: "Remember, you don't have to prove that the world today would be the way
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/6/5/18658/18658.txt:737: "How I remember his kindness now; how he would find the best worms and
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/6/7/18677/18677.txt:244: Bundler in this house; let me see, George, you don't remember my old
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/6/7/18677/18677.txt:389: SOMERS (_seated R._). Well, I remember hearing----
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/7/7/18770/18770.txt:238: premises. As well as I can remember, for it was many years ago--it ran
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/7/7/18770/18770.txt:783: I remember once, during that memorable interregnum of three months, and,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/8/1/18814/18814.txt:398: "Yes, I can. I have." He turned to MacLeod. "Remember those bullets I
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/8/1/18814/18814.txt:546: Remember when the Komintern wanted us to come to Russia and do the same
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/8/1/18814/18814.txt:549: "I remember that after we turned them down, somebody tried to kidnap
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/8/1/18814/18814.txt:550: Karen," MacLeod said grimly. "I remember a couple of Russians got rather
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/8/1/18814/18814.txt:955: hand or by an Army firing squad?" he asked. "Remember he is not only a
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/8/3/18831/18831.txt:95: His mother he could not remember; there was only a vague impression of
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/8/3/18831/18831.txt:255: him. Allan replied cordially, trying to remember who it was. Of course;
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/8/3/18831/18831.txt:367: Allan could vaguely remember some incident--
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/8/3/18831/18831.txt:565: remember being picked up, and getting a narcotic injection. The next
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/8/3/18831/18831.txt:607: I suppose you remember everything in between?" he asked. "Did you ever
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/8/3/18831/18831.txt:608: read James Branch Cabell? Remember Florian de Puysange, in 'The High
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/8/3/18831/18831.txt:729: "I haven't begun to theorize about how I managed to remember everything.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/8/3/18831/18831.txt:748: that his cigar had gone out, and re-lit it. "Here; if you can remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/8/3/18831/18831.txt:755: tight till Thursday morning; even the restaurants. I remember, we had
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/8/3/18831/18831.txt:818: remember, I was something of a chemist. I took it up, originally, to get
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/8/3/18831/18831.txt:821: ahead of any chemist in the world, now. You remember _I. G.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/9/1892/1892.txt:55: have rain....  Where did I get that word?...  I remember now
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/9/6/18968/18968.txt:170: described, you remember that it was said to be as tall as James
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/9/6/18968/18968.txt:341: "Do you remember reading about the Black Douglas in 'Tales of a
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/8/9/7/18971/18971.txt:249: remember, that the Stuart era extended, historically, from 1603 to 1714,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/0/0/19000/19000.txt:43: The coppers smashed my father's printer when I was eight.  I remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/0/3/19033/19033.txt:119: they'll remember her saucer of milk at tea-time. Dinah, my dear, I wish
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/0/3/19033/19033.txt:708: "I'm afraid, I am, sir," said Alice. "I can't remember things as I
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/0/3/19033/19033.txt:1330: sister, as well as she could remember them, all these strange adventures
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/0/3/19038/19038.txt:225:     AND REMEMBER:
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/0/6/19063/19063.txt:283: "I don't know that I can remember it very well," said Alice; "but I'll
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/0/6/19063/19063.txt:416: you think you will remember 'Our Father'?"
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/1/0/19102/19102.txt:210: can remember. Most spirits don't seem to sense me. I can't reach most
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/1/0/19102/19102.txt:659: "You remember how I made the Sergeant see an angel, the time you were
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/1/0/19102/19102.txt:666: how to use it, even if she didn't. Remember when we were shooting
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/1/0/19102/19102.txt:737: it is. I trust both of you gentlemen will remember the ethics of your
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/1/1/19119/19119.txt:540: _T[=a]ittiriya_, iii. 1. 6. 2). Who does not remember in this connection
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/1/1/19119/19119.txt:661: phonetic difficulty. One need but remember the swift changes which the
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/1/7/19170/19170.txt:127:     A moment half remember me;
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/1/7/19170/19170.txt:143:     _The glorious stars remember to appear;_
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/1/7/19170/19170.txt:354:     Remember still your child.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/1/7/19170/19170.txt:496:     A moment half remember me:
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/1/7/19170/19170.txt:605:       I would remember him.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/1/7/19170/19170.txt:735:     The glorious stars remember to appear;
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/2/5/19256/19256.txt:360: carefully, and endeavor to remember what I say."
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/2/5/19256/19256.txt:363: Rollo said he would remember it all; and so his mother began.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/2/6/19262/19262.txt:498: among the most refined that we can remember.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/3/6/19362/19362.txt:216: remember, are far more complex than all that. In real life every act is
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/3/6/19362/19362.txt:224: remember the reasons which determine the personality that acts. Just
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/3/6/19362/19362.txt:557: problem. Every one will remember the bold experiment made a hundred
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/4/1/19410/19410.txt:200: We have to remember, it is true, that M. Taine is not professing to
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/9/4/1940/1940.txt:646: thou not remember to have been dull and heavy at times, and the sudden
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/0/0/2002/2002.txt:512: Remember, never to the hill or plain,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/0/5/2052/2052.txt:397: know the mistress from the maid.  I remember I was once put very much to
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/3/6/2366/2366.txt:516: months.  Mrs. Brash had turned up, if I remember, early in the new year,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/3/6/2366/2366.txt:785: one or the other of them, but they never spoke of it at tea.  I remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/3/7/2373/2373.txt:686: beware of the pitfall of antiquarianism, and must remember that for our
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/3/7/2373/2373.txt:829: remember in army days reading of a youth who, being examined for the
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/5/0/2506/2506.txt:894: remember the berth, and I shall be sure to wake up that poor California
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/5/0/2506/2506.txt:1134: at least remember your child.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/5/3/2531/2531.txt:106: the municipal laws, to stand by and remember his rude old state.  In all
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/5/3/2531/2531.txt:349: "remember her ears," and not commit the sacrilege of singing praises to
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/5/3/2532/2532.txt:83: nothing but her new little baby; she had hardly appeared to remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/5/3/2532/2532.txt:244: school, it was all the same.  He could never be made to remember his
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/5/3/2532/2532.txt:372: "I can go no farther," I said, in a drowsy tone.  I remember I suddenly
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/5/3/2532/2532.txt:399: "Thou canst not remember, lad, how we lay together thus by our dying
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/5/6/2566/2566.txt:447:    Only the days we remember,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/6/4/2646/2646.txt:44: old-fogyfied times, remember amongst other amusements which we had as
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/6/4/2646/2646.txt:79: who does not remember these sights in London in the consulship of
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/6/4/2646/2646.txt:118: Nevertheless, apart from the text which we could not master, we remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/6/4/2646/2646.txt:187: remember, in those old portfolios, pictures representing Boney and his
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/6/4/2646/2646.txt:195: at one time, and, if we remember right, were called the Broad-backed
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/6/4/2646/2646.txt:246: say, have at least a hundred pictures of the artist. Why, we remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/6/4/2646/2646.txt:286: admirably. Time was, if we remember Mr. P.'s history rightly, that he
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/6/4/2646/2646.txt:365: We remember, in one of those ancient Gilray portfolios, a print which
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/7/2/2728/2728.txt:276: few matches. It was a charming spot to camp, I remember. Just off the
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/7/2/2728/2728.txt:391: I have rarely seen a more beautiful moonrise. I remember that sitting in
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/7/2/2728/2728.txt:435: addition to all these troubles, too, I was, I remember, seized with
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/7/3/2730/2730.txt:127: "It was a dreadful year of illness that. I came, I remember, to one
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/7/3/2730/2730.txt:134: bushes right at the kraal gate. I remember that I hesitated a little
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/7/3/2730/2730.txt:178: remember that he was much astonished at my parting with two blankets for
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/7/3/2730/2730.txt:468: remember being bent on anything before or since. 'You can go if you
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/7/9/2798/2798.txt:51: general understanding. I remember that her personation of a certain Mrs.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/7/9/2798/2798.txt:698: clearly remember as being the burden of all congratulations. "Struck the
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/9/0/2901/2901.txt:670: always remember that a spurious glamour is inclined to gather around what
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/9/1/2910/2910.txt:279: remember?
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/9/1/2910/2910.txt:372:      "O remember the things in books!"
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/9/1/2910/2910.txt:448:      "O remember, remember!"
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/9/1/2910/2910.txt:481:      "O remember, remember!"
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/9/1/2910/2910.txt:529:      "O remember!  remember!"
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/9/1/2918/2918.txt:508: you see.  [He gives that crazy laugh.]  D'you remember that hammer
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/2/9/1/2918/2918.txt:987: KEITH.  Remember, nothing!  Good night!
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/3/1/0/3109/3109.txt:405: before he had looked at the book, as you will remember, "Now I will dust
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/3/1/1/3113/3113.txt:169: social order upon which they depend. The whole case, you may remember,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/3/1/1/3118/3118.txt:135: New Testament. But we are to remember that this is not merely a "gospel
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/3/1/1/3118/3118.txt:494: remember that the Creator of man, and not man himself, formed society and
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/3/1/1/3119/3119.txt:40: Cicero and Julius Caesar. I remember the flattering invitation--it is the
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/3/1/2/3120/3120.txt:156: remember that it only conforms to the tendencies of our social life, our
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/3/1/2/3122/3122.txt:516: relied on to bring it about, when we remember what renewed executive
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/3/1/7/3172/3172.txt:519: don't remember that Lounsbury makes the claim in so many words, still he
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/3/1/7/3174/3174.txt:141: remember it the better, I think--was, "In memory of me, when there is a
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/3/1/7/3174/3174.txt:309: agriculture.  I remember my mother pulling it on a kennel once, and
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/3/1/7/3175/3175.txt:344: "Now listen well. Remember every word I say. There is a law as old as
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/3/1/8/3183/3183.txt:407: "Come, come! Remember the flag of truce!"
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/3/1/8/3183/3183.txt:529: a great many years ago. You probably do not remember it now. Well, I
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/3/1/9/3191/3191.txt:171: DEAR CHING-FOO: You will remember that I had just been thrust violently into a cell in the city prison when I wrote last. I stumbled and fell on some one. I got a blow and a curse; and on top of these a kick or two and a shove. In a second or two it was plain that I was in a nest of prisoners and was being "passed around"--for the instant I was knocked out of the way of one I fell on the head or heels of another and was promptly ejected, only to land on a third prisoner and get a new contribution of kicks and curses and a new destination. I brought up at last in an unoccupied corner, very much battered and bruised and sore, but glad enough to be let alone for a little while. I was on the flag-stones, for there was no furniture in the den except a long, broad board, or combination of boards, like a barn-door, and this bed was accommodating five or six persons, and that was its full capacity. They lay stretched side by side, snoring--when not fighting. One end of the board was four inches higher than the other, and so the slant answered for a pillow. There were no blankets, and the night was a little chilly; the nights are always a little chilly in San Francisco, though never severely cold. The board was a deal more comfortable than the stones, and occasionally some flag-stone plebeian like me would try to creep to a place on it; and then the aristocrats would hammer him good and make him think a flag pavement was a nice enough place after all.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/3/1/9/3191/3191.txt:243: "Call those four Chinamen yonder," I said. "They saw it all. I remember their faces perfectly. They will prove that the white men set the dog on me when I was not harming them."
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/3/2/5/3250/3250.txt:146: trying to repeat it to a neighbor. But he can't remember it; so he gets
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/3/2/5/3250/3250.txt:412: will go to John Elderkin very privately and say: 'Remember the veteran
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/3/2/5/3250/3250.txt:455: "You won't remember me, Mr. Clemens, but I remember you very well. I was
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/3/2/5/3250/3250.txt:512: "And I wish to shake hands with you too, Mr. Clemens. You don't remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/3/3/8/3382/3382.txt:438: to say. When I remember Mr. G. W. Cable, at Northampton, Massachusetts,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/3/3/8/3383/3383.txt:368: When we remember Cortez let us not forget Las Casas.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/3/3/8/3384/3384.txt:386: lasting delight remember certain short stories, we scarcely remember by
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/3/3/8/3384/3384.txt:423: characters. We remember Mr. John Oakhurst by name; we remember Kentuck
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/3/3/8/3384/3384.txt:424: and Tennessee's Partner, at least by nickname; and we remember their
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/3/3/8/3386/3386.txt:169: value to the editor. After all, he must remember that he is but one of a
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/3/3/9/3397/3397.txt:59: me with a sweet intelligence which I shall always gratefully remember. He
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/3/3/9/3397/3397.txt:83: greater effort to remember. Forceythe Willson, who wrote The Old
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/3/3/9/3397/3397.txt:108: I remember with what instant security, not to say severity, he rebuked my
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/3/3/9/3397/3397.txt:237: Trieste, and where I passed several days, and I remember him always
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/3/3/9/3397/3397.txt:357: I remember how he said, with an air of vague misgiving, and an effect of
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/3/3/9/3397/3397.txt:556: to be denied all the rights of men. I do not remember any passage of the
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/3/3/9/3397/3397.txt:557: speech, or any word of it, but I remember the joy, the pride with which
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/4/1/5/4152/4152.txt:590: Mr. Rawlinson's church, where I heard a good sermon of one that I remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/4/1/9/4196/4196.txt:123: all remember, I believe; for they do carry themselves very respectlessly
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/2/2/5220/5220.txt:596: remember nothing, if you will prove your penitence by keeping faith."
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/6/4/5647/5647.txt:442: And remember, that even shooting a deer may not prove so dear a shot as
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/8/4/5841/5841.txt:838: well I remember my grandmother's asking me not to use tobacco, good old
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/9/0/5904/5904.txt:389: reason; for now I remember having often heard him saying to himself that
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/9/0/5905/5905.txt:421: done we saw neither book nor room: but we remember very well, the
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/9/0/5905/5905.txt:614: he added, "I remember having read how a Spanish knight, Diego Perez de
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/9/0/5905/5905.txt:643: Sancho bade him remember it was dinner-time, to which his master answered
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/9/0/5907/5907.txt:236: loving me? Moreover, you must remember that the beauty I possess was no
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/9/0/5907/5907.txt:542: one of them, so far as I remember, carried rapier, sword, or dagger."
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/9/0/5907/5907.txt:575: to be so mounted, for I remember having read how the good old Silenus,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/9/1/5912/5912.txt:410: day went out hunting, a pastime he was very fond of. I remember well how
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/9/1/5912/5912.txt:411: sad and dreary those days and hours were to me; I remember well how I
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/9/1/5912/5912.txt:413: of Don Fernando; and I remember, too, how my maid heard those words in
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/9/1/5913/5913.txt:75: For so far, if I remember rightly, I have not mentioned it in the whole
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/9/1/5918/5918.txt:432: "I remember saying one day to one of these obstinate fellows, 'Tell me,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/9/1/5918/5918.txt:831: can almost remember having seen the Dame Quintanona, who was the best
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/9/1/5918/5918.txt:892: received, I do not remember seeing it. However, granting it is there,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/9/2/5926/5926.txt:372: "If your worship had a good memory," replied Sancho, "you would remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/9/2/5926/5926.txt:378: "I remember no such article, Sancho," said Don Quixote; "and even if it
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/9/2/5927/5927.txt:223: to take vengeance for wrongs that love may do to us: remember love and
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/9/2/5928/5928.txt:82: attacks well deserves to be called the crown of her husband. "Remember, O
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/9/3/5930/5930.txt:368: remember well enough the Gines de Pasamonte whom, with other galley
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/9/3/5930/5930.txt:537: folly to take offence at merely hearing a bray. I remember when I was a
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/9/3/5930/5930.txt:701: "If I remember rightly," said Sancho, "it must be over twenty years,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/9/3/5930/5930.txt:737: on my folly, and remember I know but little, and, if I talk much, it's
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/9/3/5931/5931.txt:582: boorish texture thou art of. Remember, sinner that thou art, the master
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/9/3/5934/5934.txt:539: forgot everything he wished to remember, there would not be such a memory
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/9/3/5937/5937.txt:229: To this Sancho replied, "Remember, Ricote, that may not have been open to
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/9/3/5938/5938.txt:162: "Thou sayest well, Sancho," said Don Quixote, "but remember all times are
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/9/3/5938/5938.txt:696: "But he does," said Don Jeronimo; "I cannot remember, however, in what
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/9/4/5942/5942.txt:399: "Remember, your worship," observed Sancho on hearing him say so, "Senor
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/5/9/4/5945/5945.txt:88: if I remember rightly I have heard the curate of our village say that it
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/6/2/5/6255/6255.txt:46: again. You remember how we saw the coast-guards flash their lights here
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/6/2/5/6255/6255.txt:48: the bank, calling, 'Who goes there?' You remember that when I said, 'A
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/6/2/5/6255/6255.txt:490: "You remember how I let you take me in your arms for an instant, and
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/6/3/9/6398/6398.txt:281: numerous: "Remember," it says, "to recommend generally our Extracts,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/6/3/9/6398/6398.txt:672: Marcus Titinnius [908]: "I remember well that when we were boys, one
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/6/3/9/6398/6398.txt:878:     I remember well when I was young,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/6/6/0/6608/6608.txt:950: when the people you have led to victory shall bow before you, to remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/1/5/7155/7155.txt:401: "Please you, sir, keep diligently in mind his majesty's desire. Remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/1/5/7155/7155.txt:402: all thou canst--SEEM to remember all else.  Let them not perceive that
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/1/5/7155/7155.txt:564: Remember I am party to thy crime if I but listen."
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/1/5/7155/7155.txt:640: remember that the prince was temporarily out of his head, and to be
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/1/5/7156/7156.txt:86: "Why, so in sooth I did:  I do remember . . . What did I with it?. . . I
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/1/5/7156/7156.txt:95: "Sire, if that I may be so bold, here be several that do remember with me
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/1/5/7157/7157.txt:563: "When he came, none came with him; but now I remember me that as the two
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/1/5/7157/7157.txt:771: brains nor hands to help itself withal.  I remember me of a small house
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/1/5/7157/7157.txt:834: "Of a surety thou must remember me, my lord.  I am thy whipping-boy."
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/1/5/7157/7157.txt:852: "Now I seem to remember thee somewhat--but my wit is clogged and dim with
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/1/5/7157/7157.txt:868: your Greek--in the morning lessons,--dost remember it?"
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/1/5/7157/7157.txt:913: "Ah, thou dost remember!"
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/1/5/7158/7158.txt:246: remember it to the honour of your royal house."
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/1/5/7158/7158.txt:367: sooth one might have had a thousand, for all had reason to remember it,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/1/5/7158/7158.txt:773: "She was ever strict--I remember it well--a goodly wench and worthy all
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/1/6/7160/7160.txt:264: throne again, can it ever grieve him to remember that when he was
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/1/6/7160/7160.txt:817: whole--yes, more than whole.  I shall remember, and requite."
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/1/6/7160/7160.txt:844: is away, she will speak her true mind.  She will remember the old times
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/1/6/7161/7161.txt:554: or something'--Miles could not remember just what or which.  Now that he
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/2/0/7200/7200.txt:233: was all right the Saturday I went to the picnic. Don't you remember you
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/2/0/7200/7200.txt:687: courted, admired, stared at. The boys were not able to remember that
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/3/9/7399/7399.txt:609: Remember, remember, thou silly one,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/5/3/7539/7539.txt:636: Where one would gain people, remember that nothing is little
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/5/4/7541/7541.txt:561: love for the first time, and the marquise did not remember ever to have
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/5/4/7542/7542.txt:1036: Remember, a lie and your death are one
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/5/4/7546/7546.txt:268: But now I remember that he gets twenty dollars a month
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/5/5/7553/7553.txt:454: I should remember to forget it
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/5/5/7553/7553.txt:791: Remember the sorrow of thine own wife
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/5/5/7553/7553.txt:793: Remember your own sins before you
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/5/5/7553/7553.txt:1177: Would look back and not remember that
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/5/5/7554/7554.txt:1785: and so I shall remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/1/5/8150/8150.txt:354: of the Convention. I remember," he muttered aloud, "what he said to me
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/4/7/8475/8475.txt:84: Johnson are easy names to remember when there is no occasion to remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/4/7/8475/8475.txt:242: every hand into dim, measure-defying distances, and remember that I had
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/4/7/8475/8475.txt:417: sight, anywhere, that I could remember ever having seen before. I was
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/4/7/8475/8475.txt:429: couldn't remember that town; I couldn't place it, couldn't call its
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/4/7/8475/8475.txt:788: less.  I remember it as if it were yesterday. The men lost their heads
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/4/7/8475/8475.txt:792: been to blame. I remember it all, as if it were yesterday.'
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/4/7/8475/8475.txt:797: reason. I myself remember a case where a captain was warned by numerous
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/4/7/8475/8475.txt:805: I do not even remember what part of the river it used to be in, except
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/4/8/8480/8480.txt:51: There is a chief personage--'Rex;' and if I remember rightly, neither
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/4/8/8480/8480.txt:216: were borrowed from the ancient and obsolete past, I do not now remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/4/8/8480/8480.txt:223: 'Sellers.' I do not remember what his first name was, in the beginning;
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/4/8/8480/8480.txt:363: dollars; from New York to St. Louis, three cents.  I remember Mr.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/4/8/8480/8480.txt:691: old age--as I remember him--his hair was as black as an Indian's, and
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/4/8/8480/8480.txt:804: 'disappeared in 1807, if I remember rightly.' In these antique
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/5/2/8525/8525.txt:49: remember it.  It could be, of course, that it did happen, and that I
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/5/2/8525/8525.txt:440: Perhaps I ought to remember that she is very young, a mere girl and make
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/5/2/8526/8526.txt:51: remember it.  It could be, of course, that it did happen, and that I
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/5/2/8528/8528.txt:52: Perhaps I ought to remember that she is very young, a mere girl and make
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/5/7/8574/8574.txt:45: family I didn't. When you read it you are to remember something I
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/5/7/8574/8574.txt:500: footman remember that minute that a box had come for Cynthia and
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/5/7/8574/8574.txt:567: "Oh! Duke," she said (you see they always tried to remember each
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/7/0/8703/8703.txt:224: And Samson called unto the Lord, and said, O Lord God, remember me, I
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/7/0/8707/8707.txt:291: But Abraham said, Son, remember that thou in thy lifetime receivedst thy
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/7/7/8779/8779.txt:71: Which to remember only, my dismay
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/7/8/8781/8781.txt:197: "No greater grief than to remember days
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/7/8/8783/8783.txt:173: Your Cerberus, if ye remember, hence
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/7/8/8783/8783.txt:468: This judgment, and remember who they are,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/7/8/8786/8786.txt:970: Sullied his face, and cried: "'Remember thee
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/7/8/8787/8787.txt:218: Thus needs must well remember how I aped
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/7/8/8787/8787.txt:351: "Remember," he replied, "O perjur'd one,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/7/8/8787/8787.txt:352: The horse remember, that did teem with death,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/7/9/8791/8791.txt:122: Yet none of ye remember.  But if aught,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/7/9/8791/8791.txt:199: Next the third spirit; "then remember me.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/7/9/8791/8791.txt:213: Fast by his side bids him remember him.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/7/9/8792/8792.txt:1244: Remember, Beatrice, in her style,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/7/9/8793/8793.txt:955: That rose, pass'd forth beyond.  "Remember," next
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/7/9/8794/8794.txt:203: Remember ye my suff'rings."  With such words
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/7/9/8794/8794.txt:236: Remember thee, remember thee, if I
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/7/9/8794/8794.txt:964: May not remember, much less tell the sound.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/7/9/8794/8794.txt:1282: "I not remember," I replied, "that e'er
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/7/9/8794/8794.txt:1285: "If thou canst, not remember, call to mind
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/8/7/9/8797/8797.txt:959: It doth remember me, that I beheld
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/9/3/1/9319/9319.txt:413: weeping, for each family had some good reason in forty years to remember
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/9/3/8/9382/9382.txt:190: She does not remember that Time has left snow
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/9/4/4/9443/9443.txt:243: Conference, it wuz on a Wednesday, as I remember well. For my companion,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/9/4/4/9443/9443.txt:637: Wall, it wuz on the very next day--on a Thursday as I remember well, for
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/9/4/6/9465/9465.txt:98:   Remember how we searched the spring,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/9/4/6/9465/9465.txt:347:   Dost thou remember, Dear, the day
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/etext96/vpasm10.txt:337: changed his reverent attitude.  Once, I remember a look of 
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/etext96/vpasm10.txt:511: clans of thy handiwork.  When we would despair, let us remember 
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10563/10563/10563.txt:369: "'Joke!' ses Miss Lamb.  'Open that door at once.  If you don't open it
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11184/11184.txt:252: "Joke?" repeated her brother, incredulously.  "Joke?"
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11185/11185.txt:508: "Joke?"  ses George, choking and staring from one to the other.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/1/2/5/11258/11258.txt:808: Hopkinsonian Joke, 31.
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/3/9/7/13978/13978.txt:504:   Joke, pun, quaint ballad, repartee,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/1/4/15144/15144.txt:822:     But this was a Champion Joke,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/1/4/15144/15144.txt:846:     That great Lost Joke of mine,
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/1/5/1/4/15144/15144.txt:857:     I shall light on my great Lost Joke!
+proj4-test-dirs/mediumGutenberg/www.gutenberg.lib.md.us/7/5/4/7549/7549.txt:262: A Normandy Joke

@@ -1,0 +1,64 @@
+/**********************************************************
+* Project 3: ZAP!
+* CS 15
+* Name: Nana Adjekum
+* Date: 8-Nov
+* README
+*
+*********************************************************/
+/*
+
+Program Purpose:
+---------------
+
+    TODO: 
+Compile/run:
+-----------
+     - Compile using
+            make
+     - run executable with either
+            ./zap
+
+
+Acknowledgments:
+---------------
+
+    codespeedy.com, office hours
+
+Files:
+-----
+    main.cpp:
+        -the main for the program
+        -used to test for phaseOne
+    phaseOne.cpp:
+        -the implementation for phaseOne
+        -allows for the client to have access to the HuffmanTree class and manipulate it to serialise and deserialise files
+    phaseOne.h:
+        -the interface for phaseOne
+        -declares the functions for the HuffmanTree manipulation
+    HuffmanTreeNode.h:
+        -the interface for the HuffmanTree
+        -declares the functions for the HuffmanTree implementation
+    unit_tests.h:
+        -testing for the program
+        -was not used for phaseOne //used a main
+    BinaryIO.h:
+        -//
+    Makefile: File to build the program.
+
+
+Data Structures:
+---------------
+
+    In this first phase of the this project I used in the map class
+    because I needed to keep track of the frequency of the chars in the string.
+
+
+Testing:
+-------
+
+    TD
+
+*/
+
+

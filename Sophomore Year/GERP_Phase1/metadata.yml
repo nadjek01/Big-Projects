@@ -1,0 +1,13 @@
+---
+:id: 152397642
+:submitters:
+- :name: Nana Adjekum
+  :email: nana.adjekum@tufts.edu
+- :name: Max Samuels
+  :email: maxwell.samuels@tufts.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-12-05 00:00:45.118106000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-12-04 16:00:45.118106000 Z
+:status: processed
