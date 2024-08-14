@@ -1,0 +1,117 @@
+Project 2
+written.text
+
+Name: Nana Adjekum
+Login ID: nadjek01
+
+
+Written #1:  How much time I spent on this assignment
+-----------------------------------------------------
+
+Please estimate of the amount of time you spent on this assignment
+(each week) in hours, e. g., 6.5 hours.  Be as accurate as you can,
+but we know you are not keeping a timer going: just give your best
+estimate.
+
+Week 1 time: 5 hours (plus 12 hours to make sure I did everything correctly)
+so 17 hours
+Week 2 time: 15 hours of so
+
+
+Written #2:  How I tested my code
+---------------------------------
+
+Replace this comment with a description of how you tested your code.
+Don't just say "I tried running it a lot."  Give some specific
+examples.
+
+We will have your code, of course, but we also want for you to explain
+to us here what you thought about in designing the tests we see
+there. Are there any tests you did a long the way, for example using
+various inputs, that we can't see from reading your code?
+
+Did you use print statements to see what was happening with your code?
+Tell us where they were and which ones were helpful.  Tell us what you
+did!
+
+If you keep this file open and keep a running log, it should not be
+too hard to do!
+
+Week 1 testing:
+
+    For testing Card ran test_linked_list where i made a card and made sure it
+    printed with the correct values with the correct values
+    For testing add_at function placed a lot of cout statements in the function
+    to make sure that the code was going into the correct place
+    --> resulted in fixing the seg fault and figuring out that m_list_length
+        was not being updated
+    For testing remove from basically did the same as before, placing a
+    bunch of cout statements in the loop and all the other conditionals
+    to make sure for each time its called in the "main" program
+    it was going to the correct places
+    --> resulted in fixing the seg fault and ensuring that the 
+        the function was removing from the correct place;
+        also fixed syntax error (= vs ==)
+    For testing and correct implementation of twentyone I just played the game
+    --> resulted in the game playing well or what not (idk im kinda skeptical)
+    --> also made my own file (n_test) and tested that way
+    For more testing basically called each function within the test_deck file
+    and placed cout statements anywhere there was a loop or conditional
+    to make sure the code was going to the correct place. 
+    
+Week 2 testing:
+
+    To test for hand::print, ran the test_hand until it output the 
+    correct values
+    --> also made sure it was printing in the right order
+    --> also made it work for a case that was more than 5 and tested that
+        by making 9 cards, adding it to a CardLinkedList and made sure
+        once again that it printed correctly
+    --> at first the comma was printing after the last card, so put the 
+        the comma print statement outside the LOOP
+    
+    To test for RackoPlayer::play
+    --> ran test_rackoplayer, had paper off to the side to document every
+        choice made (i comprehend what is acc going on when its on paper)
+    --> by choice i mean q, d, q and also discarding and replacing the card 
+        from the user input
+    --> this way i was able to catch a bug (which took 2 hours to fix but 
+        got it done eventually)
+    
+    To test for RackoPlayer::has_winning_hand
+    --> played to game to win
+    --> made sure logic made sense and was taking in consideration all cases
+    
+    To test for initialize_card_decks
+    --> called it in main and debug_printted both decks
+    
+    To test for other things
+    --> ran the code and had a piece of paper of to the side 
+    --> caught some bugs like when i inputted something that was not g,d or q
+        the code wasn't printing the card but was doing everything else no-
+        rmally
+        --> small mistake, get new card was returning 0 at a point where it
+            shouldn't have
+        
+    
+Written #3: Your comments on the project
+----------------------------------------
+
+Tell us what you learned from this project.  What did you like about
+it? Do you have any suggestions for improving it? Did you enjoy it?
+Fill in the first section after week 1, and then at the end of week
+2 tell us how things looked then. Don't edit your week 1 comments
+for week 2, but you are welcome to tell us in the second section
+that you've changed your opinion!
+
+Week 1 (tell us your thoughts after week 1):
+
+This game is fun, looking forward to seeing what it does
+
+Week 2 (add additional comments after week 2):
+
+This was the most classing I've done in a while. I did enjoy it yes, but if 
+I ever see this code again I will combust. Learned a lot about more 
+about linked lists when compared to how much I learned from the first project.
+I would say the function header comments were very informative, but at 
+times they were hard to decipher, could just be a me thing.

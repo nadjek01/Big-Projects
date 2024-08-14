@@ -1,0 +1,56 @@
+HW 6
+written.text
+
+Name:
+Login ID:
+
+
+Written #1:  How I tested my code
+---------------------------------
+
+    Made an Animal called test to test Animal::Animal(ifstream& input_file)
+    --> made sure info from short_animals gets read in
+    --> used the print statement 
+    --> printed out one animal (the first one in the file)
+    Made an Animal_Array_list called test to test animal_at(int index) and
+    Animal_Array_list
+    --> sent it to the print statement
+    --> printed out UNINITIALIZED 
+    (this way i know that Animal_Array_List works)
+    --> also know that animal_at works bc it printed
+    --> also manually input the index
+    --> will have to retest when data is sent in
+    To test add and expand function called add function in main 5 times
+    so that expand would need to be called
+    --> made a cout statement which printed the size of the array after it was
+    expanded in expand function to ensure that actually flew
+    from the add function to the expand function
+    --> worked; in terminal there was an 8 after calling the add function 5
+    times in main
+    To test print function in Animal_Array_List
+    --> made animal in main and filled it with stuff from file
+    --> made Animal_Array_list in main 
+    --> called add function with Animal_Array_List to add the 
+    animal to the array
+    --> called print function on the Animal_Array_List
+    --> print function works but now idk if my Animal function works
+    bc its printing the same thing
+    To test that Animal_Array_List all_animals worked, made two Animals
+    added the via add function and printed
+    --> printed in terminal
+    To test initialize_DB called function and called print function in
+    all_animals
+    -->printed correctly
+    To test classification funct called in main made sure it printed 
+    the animals that fit within the user provided classification and 
+    that it printed none found when UPC didnt match
+    
+Written #2:  How much time I spent on this assignment
+-----------------------------------------------------
+
+I would say I spent 7 or so hours on this program. I really can't tell 
+tbh because I thought I started late but I finished on time. So now
+I'm really skeptical about if my code works so I'm going to give myself
+an extra 2 hours of starting at the code before I am content. So lets say 
+9 hours in total.
+

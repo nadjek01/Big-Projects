@@ -1,0 +1,74 @@
+Homework 2 Written Responses:
+
+Written #1:
+    1. start the program
+    2. output a prompt for the user to enter the number of wheels, 
+       frames, and links. 
+    3. create/declare/define a function with an if statement with
+       it stating that if the input for wheels is fully divisible
+       by 2, then a certain amount of bikes can be made
+    4. do this exact same thing for the frames and links
+    5. in these functions return the values to main 
+    6. create/declare/define a function with the integers over 1 
+       returning a plural amount bikes and another for singular bikes 
+    7. end the program
+    Extra Notes: 
+        Prior to writing this code, I think the limiting component can be
+        attributed to the fact that an int variable is being used.
+        When writing this code, I realized that this program requires many
+        if, else if, else statements. But writing all of them out seems
+        tedious. 
+        After writing this code, I found the limiting component is attributed
+        to what component makes the least amount of bikes.
+
+Written #2:
+/*
+ * sally.cpp
+ * 
+ * Purpose: see what's up with Sally namewise and jobwise
+ * 
+ * Name: Nana Adjekum
+ * Credits: HW02 Guidelines
+ * Any Bugs/Issues:
+ * Date: 02/08/2022
+ */
+ 
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int age(50);
+    age = age + 50;
+        
+    string name = "Sally";
+    string job = "Super Star";
+        
+    if(name == "Sally" and job == "Super Star") {
+        cout<< "Hi Sally" << endl;
+        cout << "You are a super star!!" << endl;
+        
+            if(age == 100 or (age != 42 and name != job)) {
+                cout << "Have a nice day!" << endl;
+            } else {
+                cout << "This isn't Sally...Goodbye!!" << endl;
+            }
+    }
+        
+    return 0;
+}
+
+Written #3:
+    To test my rock paper scissors program, I had a sheet of paper of out
+    to the side with a table and when I would put my input in, i wrote down
+    the input and its outcome. This was tedious to do as sometimes I would
+    get the same output many times in a row. But it allowed my to actually see
+    if my code was working for every input. I also would have a cout statement
+    for both the secret number and the number equal to the user input so
+    I could ensure that my code was comparing the correct numbers.
+
+Written #4:
+    I don't honestly know, I would start writing my program in the morning
+    and all of a sudden it was dark (maybe I'm over-exaggerating). But I think
+    in total maybe 10 hours? 

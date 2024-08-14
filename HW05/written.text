@@ -1,0 +1,13 @@
+Homework #5 Written Responses:
+    Written #1:
+        State variables-->    i    array_len    curr_score     sum
+        Val before loop-->    0        6            ?           0
+        Val at 2nd test-->    1        6            8           8
+        Val at 3rd test-->    2        6            10          18
+        Val at 4th test-->    3        6            3           21
+        Val at 5th test-->    4        6            2           23
+        Val at 6th test-->    5        6            9           32
+        Val at 7th test-->    6        6            0           32
+    Written #2:
+            I wanna say I spent like 5 hours on the homework this week
+            which is lit, bc I thought I wasn't going to finish on time.
